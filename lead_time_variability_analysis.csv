@@ -1,0 +1,1786 @@
+Customer Region,Shipment Mode,Product Category,mean,std,count
+Canada,First Class,Accessories,2.0,,1
+Canada,First Class,Camping & Hiking,2.0,,1
+Canada,First Class,Cardio Equipment,85.0,,1
+Canada,First Class,Cleats,6.666666666666667,11.430952132988166,6
+Canada,First Class,Electronics,2.0,,1
+Canada,First Class,Fishing,2.0,0.0,2
+Canada,First Class,Girls' Apparel,2.0,,1
+Canada,First Class,Indoor/Outdoor Games,2.0,0.0,4
+Canada,First Class,Men's Footwear,42.666666666666664,100.59555987550677,6
+Canada,First Class,Shop By Sport,2.0,0.0,2
+Canada,First Class,Water Sports,2.0,0.0,3
+Canada,First Class,Women's Apparel,2.0,0.0,2
+Canada,Same Day,Camping & Hiking,4.0,,1
+Canada,Same Day,Cleats,5.0,,1
+Canada,Same Day,Fishing,4.0,,1
+Canada,Same Day,Indoor/Outdoor Games,31.0,,1
+Canada,Same Day,Water Sports,3.5,3.5355339059327378,2
+Canada,Second Class,Boxing & MMA,4.0,,1
+Canada,Second Class,Camping & Hiking,53.666666666666664,86.90416177222662,3
+Canada,Second Class,Cardio Equipment,2.0,,1
+Canada,Second Class,Cleats,15.166666666666666,29.32859810264832,6
+Canada,Second Class,Fishing,6.0,,1
+Canada,Second Class,Golf Balls,2.0,,1
+Canada,Second Class,Indoor/Outdoor Games,30.25,32.62284475639732,4
+Canada,Second Class,Men's Footwear,44.25,84.5,4
+Canada,Second Class,Shop By Sport,2.25,1.707825127659933,4
+Canada,Second Class,Tennis & Racquet,2.0,,1
+Canada,Second Class,Trade-In,4.0,,1
+Canada,Second Class,Water Sports,2.8,1.7888543819998317,5
+Canada,Second Class,Women's Apparel,25.428571428571427,27.57932282741996,7
+Canada,Standard Class,Accessories,2.0,,1
+Canada,Standard Class,Camping & Hiking,49.125,126.43624875802033,8
+Canada,Standard Class,Cardio Equipment,30.666666666666668,76.35607375972131,9
+Canada,Standard Class,Cleats,59.8235294117647,113.76249123399464,17
+Canada,Standard Class,Electronics,4.0,,1
+Canada,Standard Class,Fishing,4.625,1.4078859531733592,8
+Canada,Standard Class,Golf Balls,3.0,,1
+Canada,Standard Class,Golf Shoes,2.0,,1
+Canada,Standard Class,Hunting & Shooting,2.0,,1
+Canada,Standard Class,Indoor/Outdoor Games,91.08333333333333,136.9594885911579,12
+Canada,Standard Class,Men's Footwear,2.7777777777777777,0.97182531580755,9
+Canada,Standard Class,Shop By Sport,3.0,2.449489742783178,4
+Canada,Standard Class,Trade-In,4.0,,1
+Canada,Standard Class,Water Sports,3.6666666666666665,0.5773502691896257,3
+Canada,Standard Class,Women's Apparel,33.5,93.22892029272552,20
+Caribbean,First Class,Camping & Hiking,15.92,51.305392828954474,25
+Caribbean,First Class,Cardio Equipment,40.64705882352941,70.08382585917255,17
+Caribbean,First Class,Cleats,26.129032258064516,78.06225803185723,31
+Caribbean,First Class,Electronics,8.222222222222221,14.254628877822265,9
+Caribbean,First Class,Fishing,2.375,1.0555237727226274,24
+Caribbean,First Class,Girls' Apparel,139.0,193.74725804511402,2
+Caribbean,First Class,Golf Bags & Carts,2.0,,1
+Caribbean,First Class,Golf Balls,54.666666666666664,91.22134253196087,3
+Caribbean,First Class,Golf Gloves,3.0,1.7320508075688772,3
+Caribbean,First Class,Hunting & Shooting,27.5,37.476659402887016,2
+Caribbean,First Class,Indoor/Outdoor Games,29.0625,59.24249646239407,32
+Caribbean,First Class,Men's Footwear,2.4193548387096775,1.148163564085045,31
+Caribbean,First Class,Men's Golf Clubs,3.0,,1
+Caribbean,First Class,Shop By Sport,3.0833333333333335,1.5050420310248864,12
+Caribbean,First Class,Tennis & Racquet,2.0,,1
+Caribbean,First Class,Trade-In,2.0,0.0,2
+Caribbean,First Class,Water Sports,4.809523809523809,9.744839904375276,21
+Caribbean,First Class,Women's Apparel,19.714285714285715,48.732723162966245,28
+Caribbean,Same Day,Accessories,130.5,28.991378028648448,2
+Caribbean,Same Day,Camping & Hiking,8.25,11.4418821295566,4
+Caribbean,Same Day,Cardio Equipment,70.14285714285714,93.72731471566613,7
+Caribbean,Same Day,Cleats,40.57142857142857,70.16871348149652,14
+Caribbean,Same Day,Electronics,6.0,,1
+Caribbean,Same Day,Fishing,7.75,14.820352800890307,8
+Caribbean,Same Day,Golf Balls,0.0,,1
+Caribbean,Same Day,Indoor/Outdoor Games,28.642857142857142,53.210188646763655,14
+Caribbean,Same Day,Kids' Golf Clubs,9.5,9.192388155425117,2
+Caribbean,Same Day,Men's Footwear,2.090909090909091,2.2115399817568506,11
+Caribbean,Same Day,Shop By Sport,0.6,0.8944271909999159,5
+Caribbean,Same Day,Tennis & Racquet,6.0,,1
+Caribbean,Same Day,Water Sports,1.375,1.9955307206712845,8
+Caribbean,Same Day,Women's Apparel,1.6666666666666667,1.3228756555322954,9
+Caribbean,Second Class,Accessories,31.5,52.34182521336705,4
+Caribbean,Second Class,Baseball & Softball,2.0,,1
+Caribbean,Second Class,Boxing & MMA,4.0,,1
+Caribbean,Second Class,Camping & Hiking,19.416666666666668,55.94552274446558,12
+Caribbean,Second Class,Cardio Equipment,36.166666666666664,53.63081862028915,18
+Caribbean,Second Class,Cleats,19.785714285714285,44.66862113705452,28
+Caribbean,Second Class,Electronics,2.0,,1
+Caribbean,Second Class,Fishing,31.391304347826086,86.12239658576559,23
+Caribbean,Second Class,Girls' Apparel,6.0,,1
+Caribbean,Second Class,Golf Apparel,1.0,1.4142135623730951,2
+Caribbean,Second Class,Golf Balls,4.0,,1
+Caribbean,Second Class,Golf Gloves,4.333333333333333,1.5275252316519465,3
+Caribbean,Second Class,Hockey,2.0,,1
+Caribbean,Second Class,Indoor/Outdoor Games,57.172413793103445,107.66252463983308,29
+Caribbean,Second Class,Men's Footwear,31.125,88.15300115653027,32
+Caribbean,Second Class,Shop By Sport,8.846153846153847,17.553946155808546,13
+Caribbean,Second Class,Trade-In,4.5,1.9148542155126762,4
+Caribbean,Second Class,Water Sports,4.0,1.6236882817719775,23
+Caribbean,Second Class,Women's Apparel,17.444444444444443,34.118947288897466,27
+Caribbean,Standard Class,Accessories,4.5,1.3093073414159542,8
+Caribbean,Standard Class,Baseball & Softball,18.666666666666668,27.15388247255507,3
+Caribbean,Standard Class,Boxing & MMA,3.3333333333333335,1.1547005383792515,3
+Caribbean,Standard Class,Camping & Hiking,10.74468085106383,28.276175318751992,47
+Caribbean,Standard Class,Cardio Equipment,62.121212121212125,85.92599949536456,66
+Caribbean,Standard Class,Cleats,25.291666666666668,50.70600644534979,120
+Caribbean,Standard Class,Electronics,4.2727272727272725,1.6787441193290353,11
+Caribbean,Standard Class,Fishing,12.253333333333334,43.93271677922507,75
+Caribbean,Standard Class,Fitness Accessories,4.0,,1
+Caribbean,Standard Class,Girls' Apparel,4.636363636363637,1.2862913567871994,11
+Caribbean,Standard Class,Golf Apparel,42.0,56.568542494923804,2
+Caribbean,Standard Class,Golf Balls,35.285714285714285,84.56696416787958,7
+Caribbean,Standard Class,Golf Gloves,2.8,1.0954451150103321,5
+Caribbean,Standard Class,Golf Shoes,35.0,57.15767664977295,3
+Caribbean,Standard Class,Hockey,2.0,0.0,2
+Caribbean,Standard Class,Hunting & Shooting,100.0,134.35028842544403,2
+Caribbean,Standard Class,Indoor/Outdoor Games,21.928571428571427,46.60676690835232,98
+Caribbean,Standard Class,Lacrosse,5.333333333333333,1.1547005383792515,3
+Caribbean,Standard Class,Men's Footwear,5.9907407407407405,16.075461866227368,108
+Caribbean,Standard Class,Shop By Sport,6.25,12.059250885311808,48
+Caribbean,Standard Class,Soccer,5.0,1.4142135623730951,2
+Caribbean,Standard Class,Strength Training,4.0,,1
+Caribbean,Standard Class,Tennis & Racquet,15.333333333333334,18.823743871327334,3
+Caribbean,Standard Class,Trade-In,3.0,1.4142135623730951,2
+Caribbean,Standard Class,Water Sports,6.708333333333333,26.25628697348128,72
+Caribbean,Standard Class,Women's Apparel,21.86315789473684,55.693425741039455,95
+Caribbean,Standard Class,Women's Golf Clubs,4.0,,1
+Central Africa,First Class,Baseball & Softball,0.0,,1
+Central Africa,First Class,Camping & Hiking,14.666666666666666,31.02687007525359,6
+Central Africa,First Class,Cardio Equipment,66.2,113.48656308127408,5
+Central Africa,First Class,Cleats,108.16666666666667,143.3151856023723,12
+Central Africa,First Class,Electronics,5.0,,1
+Central Africa,First Class,Fishing,50.0,127.10850258173694,8
+Central Africa,First Class,Golf Balls,2.0,,1
+Central Africa,First Class,Indoor/Outdoor Games,9.0,16.401219466856727,7
+Central Africa,First Class,Men's Footwear,54.0,136.6991831236261,7
+Central Africa,First Class,Shop By Sport,3.2,2.3874672772626644,5
+Central Africa,First Class,Tennis & Racquet,2.0,,1
+Central Africa,First Class,Water Sports,10.285714285714286,11.101265479128731,7
+Central Africa,First Class,Women's Apparel,55.53846153846154,103.21548283777922,13
+Central Africa,Same Day,Cleats,2.5,3.5355339059327378,2
+Central Africa,Same Day,Fishing,0.0,0.0,2
+Central Africa,Same Day,Golf Gloves,0.0,,1
+Central Africa,Same Day,Indoor/Outdoor Games,7.5,10.535653752852738,4
+Central Africa,Same Day,Women's Apparel,2.0,,1
+Central Africa,Second Class,Accessories,225.0,,1
+Central Africa,Second Class,Camping & Hiking,4.0,2.8284271247461903,2
+Central Africa,Second Class,Cardio Equipment,203.0,,1
+Central Africa,Second Class,Cleats,4.0,,1
+Central Africa,Second Class,Fishing,16.5,29.0,4
+Central Africa,Second Class,Indoor/Outdoor Games,18.0,26.0,3
+Central Africa,Second Class,Men's Footwear,1.3333333333333333,1.1547005383792517,3
+Central Africa,Second Class,Water Sports,2.4,0.8944271909999159,5
+Central Africa,Second Class,Women's Apparel,32.0,58.00574684172825,4
+Central Africa,Standard Class,Accessories,19.0,18.384776310850235,2
+Central Africa,Standard Class,Camping & Hiking,49.8125,106.10637351262174,16
+Central Africa,Standard Class,Cardio Equipment,48.166666666666664,101.92049783428199,12
+Central Africa,Standard Class,Cleats,25.041666666666668,58.587340349902924,24
+Central Africa,Standard Class,Electronics,4.333333333333333,0.5773502691896258,3
+Central Africa,Standard Class,Fishing,3.8333333333333335,1.8006732747570402,12
+Central Africa,Standard Class,Girls' Apparel,25.0,,1
+Central Africa,Standard Class,Golf Balls,4.0,,1
+Central Africa,Standard Class,Hockey,4.0,,1
+Central Africa,Standard Class,Hunting & Shooting,3.0,1.4142135623730951,2
+Central Africa,Standard Class,Indoor/Outdoor Games,58.36363636363637,120.10929366307349,22
+Central Africa,Standard Class,Men's Footwear,54.81818181818182,109.71288779773208,22
+Central Africa,Standard Class,Shop By Sport,79.0,139.05993911499698,7
+Central Africa,Standard Class,Water Sports,26.75,89.41252708653302,16
+Central Africa,Standard Class,Women's Apparel,40.611111111111114,98.9665058544847,18
+Central America,First Class,Accessories,107.375,112.56989891999167,8
+Central America,First Class,Baseball & Softball,62.6,135.50571943648725,5
+Central America,First Class,Boxing & MMA,11.5,13.435028842544403,2
+Central America,First Class,Camping & Hiking,10.986486486486486,34.91967033818063,74
+Central America,First Class,Cardio Equipment,46.310344827586206,71.24634971173913,58
+Central America,First Class,Cleats,22.092436974789916,54.958380492730186,119
+Central America,First Class,Electronics,5.714285714285714,6.69590657306125,14
+Central America,First Class,Fishing,2.4794520547945207,1.3955244836529692,73
+Central America,First Class,Girls' Apparel,2.0,0.0,5
+Central America,First Class,Golf Apparel,2.0,,1
+Central America,First Class,Golf Bags & Carts,2.0,0.0,2
+Central America,First Class,Golf Balls,23.1,57.63958901850552,10
+Central America,First Class,Golf Gloves,2.0,0.0,3
+Central America,First Class,Golf Shoes,103.0,140.0071426749364,2
+Central America,First Class,Hockey,2.5,2.081665999466133,4
+Central America,First Class,Hunting & Shooting,2.0,,1
+Central America,First Class,Indoor/Outdoor Games,19.866666666666667,50.77803647999837,90
+Central America,First Class,Kids' Golf Clubs,2.0,0.0,2
+Central America,First Class,Lacrosse,4.0,2.0,3
+Central America,First Class,Men's Footwear,14.946236559139784,47.5013422216307,93
+Central America,First Class,Men's Golf Clubs,2.6666666666666665,1.1547005383792515,3
+Central America,First Class,Shop By Sport,4.346153846153846,6.032216174497336,52
+Central America,First Class,Soccer,2.0,,1
+Central America,First Class,Tennis & Racquet,3.0,1.7320508075688772,3
+Central America,First Class,Trade-In,3.4,1.51657508881031,5
+Central America,First Class,Water Sports,2.161764705882353,0.803170845148731,68
+Central America,First Class,Women's Apparel,27.951219512195124,70.06644156129474,82
+Central America,Same Day,Baseball & Softball,1.0,0.0,2
+Central America,Same Day,Camping & Hiking,27.8125,59.85896618998137,16
+Central America,Same Day,Cardio Equipment,49.75,98.75322779534854,16
+Central America,Same Day,Cleats,12.15,25.928451850903386,40
+Central America,Same Day,Electronics,3.1666666666666665,2.136976056643281,6
+Central America,Same Day,Fishing,0.8,0.816496580927726,25
+Central America,Same Day,Fitness Accessories,1.0,,1
+Central America,Same Day,Girls' Apparel,2.5,2.6457513110645907,4
+Central America,Same Day,Golf Apparel,1.0,,1
+Central America,Same Day,Golf Balls,42.0,42.42640687119285,2
+Central America,Same Day,Golf Gloves,0.4,0.5477225575051662,5
+Central America,Same Day,Golf Shoes,0.6666666666666666,1.1547005383792517,3
+Central America,Same Day,Hockey,3.0,1.4142135623730951,2
+Central America,Same Day,Hunting & Shooting,3.0,2.8284271247461903,2
+Central America,Same Day,Indoor/Outdoor Games,9.212121212121213,21.666156753906506,33
+Central America,Same Day,Kids' Golf Clubs,0.0,0.0,2
+Central America,Same Day,Lacrosse,25.0,,1
+Central America,Same Day,Men's Footwear,6.59375,18.208221069509484,32
+Central America,Same Day,Shop By Sport,2.6,2.087557121815378,20
+Central America,Same Day,Soccer,0.0,,1
+Central America,Same Day,Trade-In,4.0,,1
+Central America,Same Day,Water Sports,0.9090909090909091,1.7157281089155543,22
+Central America,Same Day,Women's Apparel,34.0,78.47404966349217,35
+Central America,Second Class,Accessories,6.125,3.8706773124535783,8
+Central America,Second Class,As Seen on  TV!,6.0,,1
+Central America,Second Class,Baseball & Softball,3.0,1.0954451150103324,6
+Central America,Second Class,Boxing & MMA,4.333333333333333,1.5275252316519468,3
+Central America,Second Class,Camping & Hiking,17.67032967032967,45.19711272613549,91
+Central America,Second Class,Cardio Equipment,40.651162790697676,64.18260116846044,86
+Central America,Second Class,Cleats,23.594202898550726,53.72770461801412,138
+Central America,Second Class,Electronics,4.555555555555555,2.727252921298651,18
+Central America,Second Class,Fishing,6.890243902439025,22.094637133549714,82
+Central America,Second Class,Fitness Accessories,3.6666666666666665,2.0816659994661326,3
+Central America,Second Class,Girls' Apparel,3.2222222222222223,1.481365736219265,9
+Central America,Second Class,Golf Apparel,2.6666666666666665,2.3094010767585034,3
+Central America,Second Class,Golf Balls,9.0,13.299958228840001,10
+Central America,Second Class,Golf Gloves,3.4285714285714284,1.5118578920369088,7
+Central America,Second Class,Golf Shoes,3.0,1.0,3
+Central America,Second Class,Hockey,2.6666666666666665,1.1547005383792515,3
+Central America,Second Class,Indoor/Outdoor Games,26.484126984126984,58.769071338857714,126
+Central America,Second Class,Kids' Golf Clubs,0.0,,1
+Central America,Second Class,Lacrosse,3.0,1.4142135623730951,2
+Central America,Second Class,Men's Footwear,11.133333333333333,34.388864910763566,135
+Central America,Second Class,Men's Golf Clubs,2.5,1.0,4
+Central America,Second Class,Shop By Sport,13.857142857142858,39.668731955166855,63
+Central America,Second Class,Soccer,4.0,1.4142135623730951,2
+Central America,Second Class,Tennis & Racquet,4.666666666666667,1.1547005383792515,3
+Central America,Second Class,Trade-In,4.0,1.632993161855452,4
+Central America,Second Class,Water Sports,3.3295454545454546,1.4281375292694454,88
+Central America,Second Class,Women's Apparel,24.552,57.28739882832988,125
+Central America,Second Class,Women's Golf Clubs,3.0,1.4142135623730951,2
+Central America,Standard Class,Accessories,15.958333333333334,29.079320557020775,24
+Central America,Standard Class,Baseball & Softball,31.875,76.7136372678101,8
+Central America,Standard Class,Boxing & MMA,5.142857142857143,2.4784787961282104,7
+Central America,Standard Class,Camping & Hiking,17.198443579766536,42.97686875015552,257
+Central America,Standard Class,Cardio Equipment,46.8412017167382,73.7459269612718,233
+Central America,Standard Class,Cleats,27.767184035476717,59.647567787308894,451
+Central America,Standard Class,Electronics,3.4375,1.5966220992018036,48
+Central America,Standard Class,Fishing,8.75531914893617,34.036097491634656,282
+Central America,Standard Class,Fitness Accessories,21.5,39.0,4
+Central America,Standard Class,Girls' Apparel,12.9375,35.516134830993835,16
+Central America,Standard Class,Golf Apparel,3.75,1.707825127659933,4
+Central America,Standard Class,Golf Balls,19.678571428571427,54.97140911515568,28
+Central America,Standard Class,Golf Gloves,13.647058823529411,32.29346136695203,17
+Central America,Standard Class,Golf Shoes,36.0,66.69741715048234,12
+Central America,Standard Class,Hockey,2.5,1.4142135623730951,8
+Central America,Standard Class,Hunting & Shooting,3.25,0.9574271077563381,4
+Central America,Standard Class,Indoor/Outdoor Games,19.64788732394366,43.89281326434266,355
+Central America,Standard Class,Kids' Golf Clubs,37.0,57.19265687131522,3
+Central America,Standard Class,Lacrosse,35.166666666666664,81.24140980230874,6
+Central America,Standard Class,Men's Footwear,14.658227848101266,45.13152973860888,395
+Central America,Standard Class,Men's Golf Clubs,2.857142857142857,1.5735915849388862,7
+Central America,Standard Class,Shop By Sport,14.793427230046948,43.79588756853399,213
+Central America,Standard Class,Soccer,4.0,1.8257418583505538,4
+Central America,Standard Class,Strength Training,4.0,,1
+Central America,Standard Class,Tennis & Racquet,2.0,,1
+Central America,Standard Class,Trade-In,3.2666666666666666,1.8695555876298773,15
+Central America,Standard Class,Water Sports,5.938405797101449,17.03322452775492,276
+Central America,Standard Class,Women's Apparel,11.726519337016574,33.15889411252362,362
+Central America,Standard Class,Women's Golf Clubs,4.333333333333333,2.081665999466133,3
+Central Asia,First Class,Camping & Hiking,2.0,,1
+Central Asia,First Class,Cardio Equipment,2.0,,1
+Central Asia,First Class,Cleats,4.0,3.4641016151377544,3
+Central Asia,First Class,Electronics,2.0,,1
+Central Asia,First Class,Indoor/Outdoor Games,3.0,,1
+Central Asia,First Class,Men's Footwear,2.0,,1
+Central Asia,First Class,Shop By Sport,2.0,0.0,2
+Central Asia,First Class,Water Sports,2.0,0.0,3
+Central Asia,First Class,Women's Apparel,163.5,228.39549032325485,2
+Central Asia,Same Day,Accessories,0.0,,1
+Central Asia,Same Day,Camping & Hiking,0.0,0.0,2
+Central Asia,Same Day,Cardio Equipment,0.0,0.0,2
+Central Asia,Same Day,Cleats,9.0,8.48528137423857,2
+Central Asia,Same Day,Indoor/Outdoor Games,100.5,137.88582233137677,2
+Central Asia,Same Day,Men's Footwear,1.6666666666666667,2.8867513459481287,3
+Central Asia,Same Day,Shop By Sport,1.0,1.7320508075688772,3
+Central Asia,Same Day,Women's Apparel,112.0,193.98969044771425,3
+Central Asia,Second Class,Accessories,2.0,,1
+Central Asia,Second Class,Camping & Hiking,4.0,,1
+Central Asia,Second Class,Cleats,18.5,26.350205565295564,4
+Central Asia,Second Class,Fishing,47.0,,1
+Central Asia,Second Class,Hunting & Shooting,2.0,,1
+Central Asia,Second Class,Indoor/Outdoor Games,36.5,43.55456348076513,4
+Central Asia,Second Class,Men's Footwear,85.0,137.69894698217558,3
+Central Asia,Second Class,Shop By Sport,6.0,,1
+Central Asia,Second Class,Water Sports,6.0,,1
+Central Asia,Second Class,Women's Apparel,4.666666666666667,1.1547005383792515,3
+Central Asia,Standard Class,Boxing & MMA,5.0,,1
+Central Asia,Standard Class,Camping & Hiking,98.5,107.17120259970336,4
+Central Asia,Standard Class,Cardio Equipment,60.25,88.19816702554915,4
+Central Asia,Standard Class,Cleats,17.7,35.587294861446765,10
+Central Asia,Standard Class,Electronics,5.0,,1
+Central Asia,Standard Class,Fishing,123.0,205.24862971527972,3
+Central Asia,Standard Class,Indoor/Outdoor Games,3.3333333333333335,1.1547005383792517,3
+Central Asia,Standard Class,Men's Footwear,12.2,14.498275759551548,5
+Central Asia,Standard Class,Shop By Sport,3.0,0.0,3
+Central Asia,Standard Class,Water Sports,5.0,1.4142135623730951,2
+Central Asia,Standard Class,Women's Apparel,13.88888888888889,28.18441255572149,9
+East Africa,First Class,Boxing & MMA,2.0,,1
+East Africa,First Class,Camping & Hiking,2.0,0.0,5
+East Africa,First Class,Cardio Equipment,74.6,161.22282716786728,5
+East Africa,First Class,Cleats,55.4,78.03019358627218,10
+East Africa,First Class,Fishing,2.0,0.0,5
+East Africa,First Class,Girls' Apparel,4.0,,1
+East Africa,First Class,Indoor/Outdoor Games,7.5,11.0,4
+East Africa,First Class,Men's Footwear,2.0,0.0,5
+East Africa,First Class,Shop By Sport,3.5,1.7320508075688772,4
+East Africa,First Class,Trade-In,2.0,,1
+East Africa,First Class,Water Sports,2.0,0.0,4
+East Africa,First Class,Women's Apparel,41.333333333333336,94.40056497006078,6
+East Africa,Same Day,Accessories,2.0,,1
+East Africa,Same Day,Camping & Hiking,36.0,50.91168824543142,2
+East Africa,Same Day,Cardio Equipment,18.5,17.67766952966369,2
+East Africa,Same Day,Cleats,3.6666666666666665,2.516611478423583,3
+East Africa,Same Day,Indoor/Outdoor Games,59.666666666666664,102.4808925279895,3
+East Africa,Same Day,Men's Footwear,0.3333333333333333,0.5773502691896258,3
+East Africa,Same Day,Women's Apparel,1.0,1.4142135623730951,2
+East Africa,Second Class,Accessories,6.0,,1
+East Africa,Second Class,Camping & Hiking,4.0,,1
+East Africa,Second Class,Cardio Equipment,5.0,1.4142135623730951,2
+East Africa,Second Class,Cleats,107.75,153.38630037541535,8
+East Africa,Second Class,Fishing,2.1666666666666665,0.983192080250175,6
+East Africa,Second Class,Girls' Apparel,4.0,,1
+East Africa,Second Class,Indoor/Outdoor Games,59.2,122.88083658569387,5
+East Africa,Second Class,Men's Footwear,4.0,0.0,2
+East Africa,Second Class,Shop By Sport,2.8333333333333335,0.9831920802501751,6
+East Africa,Second Class,Water Sports,3.6,0.8944271909999159,5
+East Africa,Second Class,Women's Apparel,2.0,0.0,4
+East Africa,Standard Class,Accessories,4.0,,1
+East Africa,Standard Class,Boxing & MMA,8.0,,1
+East Africa,Standard Class,Camping & Hiking,22.5,79.5583202172436,20
+East Africa,Standard Class,Cardio Equipment,42.0,60.090956698350844,14
+East Africa,Standard Class,Cleats,42.107142857142854,86.71338026775518,28
+East Africa,Standard Class,Electronics,4.0,1.4142135623730951,5
+East Africa,Standard Class,Fishing,17.923076923076923,36.84757237245881,13
+East Africa,Standard Class,Golf Balls,4.0,,1
+East Africa,Standard Class,Golf Gloves,4.0,,1
+East Africa,Standard Class,Hunting & Shooting,6.0,,1
+East Africa,Standard Class,Indoor/Outdoor Games,36.84615384615385,74.03810522724785,13
+East Africa,Standard Class,Men's Footwear,22.88,61.46701012196163,25
+East Africa,Standard Class,Shop By Sport,3.8,1.8135294011647258,10
+East Africa,Standard Class,Water Sports,4.142857142857143,1.6574838603294897,14
+East Africa,Standard Class,Women's Apparel,33.75,91.4567292949695,16
+East of USA,First Class,Accessories,84.0,142.02816622064793,3
+East of USA,First Class,Baseball & Softball,3.0,,1
+East of USA,First Class,Camping & Hiking,10.88888888888889,25.201410895247733,9
+East of USA,First Class,Cardio Equipment,42.53846153846154,72.12329187418743,13
+East of USA,First Class,Cleats,14.333333333333334,31.470713323683164,24
+East of USA,First Class,Electronics,3.0,1.4142135623730951,5
+East of USA,First Class,Fishing,2.8,1.35400640077266,25
+East of USA,First Class,Girls' Apparel,2.3333333333333335,0.5773502691896257,3
+East of USA,First Class,Golf Apparel,2.0,,1
+East of USA,First Class,Golf Balls,2.0,,1
+East of USA,First Class,Golf Gloves,2.0,,1
+East of USA,First Class,Hockey,2.0,,1
+East of USA,First Class,Indoor/Outdoor Games,33.42857142857143,57.741294953067545,21
+East of USA,First Class,Men's Footwear,32.0,58.887010452221126,26
+East of USA,First Class,Shop By Sport,2.5714285714285716,2.14919697074224,7
+East of USA,First Class,Trade-In,2.0,,1
+East of USA,First Class,Water Sports,2.6666666666666665,1.118033988749895,9
+East of USA,First Class,Women's Apparel,15.80952380952381,34.56677457851549,21
+East of USA,Same Day,Accessories,205.0,60.81118318204309,2
+East of USA,Same Day,Camping & Hiking,9.928571428571429,28.301846326600415,14
+East of USA,Same Day,Cardio Equipment,59.25,114.53492917010077,4
+East of USA,Same Day,Cleats,25.941176470588236,48.58300961786344,17
+East of USA,Same Day,Electronics,2.0,2.8284271247461903,2
+East of USA,Same Day,Fishing,0.875,0.7187952884282609,16
+East of USA,Same Day,Girls' Apparel,2.0,,1
+East of USA,Same Day,Golf Balls,115.0,,1
+East of USA,Same Day,Golf Gloves,0.0,,1
+East of USA,Same Day,Hockey,0.0,,1
+East of USA,Same Day,Indoor/Outdoor Games,47.25,80.48729431068325,12
+East of USA,Same Day,Men's Footwear,5.0,13.044303206911673,14
+East of USA,Same Day,Shop By Sport,32.0,103.31153240211243,12
+East of USA,Same Day,Water Sports,1.4166666666666667,1.5642792899510296,12
+East of USA,Same Day,Women's Apparel,6.235294117647059,15.031339809564159,17
+East of USA,Second Class,Accessories,4.0,2.8284271247461903,2
+East of USA,Second Class,Baseball & Softball,3.3333333333333335,1.1547005383792517,3
+East of USA,Second Class,Boxing & MMA,3.25,1.4999999999999998,4
+East of USA,Second Class,Camping & Hiking,8.666666666666666,22.33699121346893,18
+East of USA,Second Class,Cardio Equipment,44.523809523809526,76.39346768383999,21
+East of USA,Second Class,Cleats,26.21212121212121,53.46480008832773,33
+East of USA,Second Class,Electronics,4.2,1.7888543819998315,5
+East of USA,Second Class,Fishing,14.25925925925926,57.9234193321018,27
+East of USA,Second Class,Fitness Accessories,2.5,2.1213203435596424,2
+East of USA,Second Class,Girls' Apparel,3.2,1.0954451150103321,5
+East of USA,Second Class,Golf Apparel,3.0,,1
+East of USA,Second Class,Golf Shoes,53.0,,1
+East of USA,Second Class,Indoor/Outdoor Games,25.689655172413794,58.47899711390643,29
+East of USA,Second Class,Lacrosse,6.0,,1
+East of USA,Second Class,Men's Footwear,7.394736842105263,9.671746184283403,38
+East of USA,Second Class,Shop By Sport,9.157894736842104,17.1407997930044,19
+East of USA,Second Class,Tennis & Racquet,5.5,0.7071067811865476,2
+East of USA,Second Class,Trade-In,4.0,,1
+East of USA,Second Class,Water Sports,3.586206896551724,1.2960721259501822,29
+East of USA,Second Class,Women's Apparel,16.875,38.03118414856334,32
+East of USA,Standard Class,Accessories,55.285714285714285,88.28120654234075,7
+East of USA,Standard Class,Baseball & Softball,3.6,1.6733200530681511,5
+East of USA,Standard Class,Boxing & MMA,6.0,,1
+East of USA,Standard Class,Camping & Hiking,10.28888888888889,27.60897599614219,45
+East of USA,Standard Class,Cardio Equipment,36.57142857142857,67.1664598838835,49
+East of USA,Standard Class,Cleats,31.252747252747252,60.78259864405517,91
+East of USA,Standard Class,Electronics,3.4545454545454546,1.2135597524338357,11
+East of USA,Standard Class,Fishing,11.675,43.61418158630331,80
+East of USA,Standard Class,Girls' Apparel,4.5,1.2247448713915892,6
+East of USA,Standard Class,Golf Apparel,6.0,,1
+East of USA,Standard Class,Golf Balls,3.6,1.816590212458495,5
+East of USA,Standard Class,Golf Shoes,4.0,0.0,2
+East of USA,Standard Class,Hockey,122.66666666666667,209.0103665690612,3
+East of USA,Standard Class,Hunting & Shooting,4.0,,1
+East of USA,Standard Class,Indoor/Outdoor Games,45.225352112676056,70.4591466602352,71
+East of USA,Standard Class,Men's Footwear,19.175,41.45632901246652,80
+East of USA,Standard Class,Shop By Sport,5.065217391304348,8.375631780914714,46
+East of USA,Standard Class,Tennis & Racquet,4.5,2.1213203435596424,2
+East of USA,Standard Class,Trade-In,3.8333333333333335,2.562550812504343,6
+East of USA,Standard Class,Water Sports,6.262295081967213,15.278417936579977,61
+East of USA,Standard Class,Women's Apparel,22.623529411764707,59.1525422048767,85
+Eastern Asia,First Class,Accessories,2.0,,1
+Eastern Asia,First Class,Boxing & MMA,0.0,,1
+Eastern Asia,First Class,Camping & Hiking,31.666666666666668,89.0,9
+Eastern Asia,First Class,Cardio Equipment,53.357142857142854,114.4045501669453,14
+Eastern Asia,First Class,Cleats,17.4375,51.9832905845715,16
+Eastern Asia,First Class,DVDs,4.333333333333333,1.5275252316519465,3
+Eastern Asia,First Class,Fishing,17.46153846153846,49.41594780469052,13
+Eastern Asia,First Class,Garden,2.0,0.0,3
+Eastern Asia,First Class,Girls' Apparel,2.8,1.7888543819998317,5
+Eastern Asia,First Class,Golf Balls,4.0,2.8284271247461903,2
+Eastern Asia,First Class,Golf Gloves,2.0,0.0,2
+Eastern Asia,First Class,Health and Beauty,9.5,4.949747468305833,2
+Eastern Asia,First Class,Indoor/Outdoor Games,31.384615384615383,81.67673930556816,13
+Eastern Asia,First Class,Men's Clothing,5.5,3.5355339059327378,2
+Eastern Asia,First Class,Men's Footwear,2.3,0.9486832980505138,10
+Eastern Asia,First Class,Pet Supplies,3.0,,1
+Eastern Asia,First Class,Shop By Sport,3.4444444444444446,2.7888667551135855,9
+Eastern Asia,First Class,Sporting Goods,7.666666666666667,7.2571803523590805,6
+Eastern Asia,First Class,Toys,3.25,1.8929694486000912,4
+Eastern Asia,First Class,Video Games,6.666666666666667,2.5166114784235836,3
+Eastern Asia,First Class,Water Sports,7.222222222222222,14.575474072716965,9
+Eastern Asia,First Class,Women's Apparel,31.733333333333334,79.50154236299593,15
+Eastern Asia,First Class,Women's Clothing,7.333333333333333,6.8068592855540455,3
+Eastern Asia,Same Day,Accessories,0.6666666666666666,0.5773502691896258,3
+Eastern Asia,Same Day,Camping & Hiking,23.0,50.95422782589618,7
+Eastern Asia,Same Day,Cardio Equipment,58.75,58.89750985115302,4
+Eastern Asia,Same Day,Cleats,10.5,30.802892426169688,12
+Eastern Asia,Same Day,DVDs,3.0,,1
+Eastern Asia,Same Day,Fishing,1.2,2.16794833886788,5
+Eastern Asia,Same Day,Garden,138.0,190.91883092036784,2
+Eastern Asia,Same Day,Girls' Apparel,1.0,,1
+Eastern Asia,Same Day,Golf Balls,1.0,0.0,2
+Eastern Asia,Same Day,Health and Beauty,3.0,,1
+Eastern Asia,Same Day,Indoor/Outdoor Games,8.066666666666666,26.590725200089352,15
+Eastern Asia,Same Day,Men's Footwear,2.0,2.1908902300206643,6
+Eastern Asia,Same Day,Music,3.0,,1
+Eastern Asia,Same Day,Pet Supplies,2.0,,1
+Eastern Asia,Same Day,Shop By Sport,15.0,23.388031127053,3
+Eastern Asia,Same Day,Toys,2.0,1.4142135623730951,5
+Eastern Asia,Same Day,Trade-In,0.0,,1
+Eastern Asia,Same Day,Water Sports,120.0,207.84609690826528,3
+Eastern Asia,Same Day,Women's Apparel,60.833333333333336,82.05465658124874,6
+Eastern Asia,Second Class,Accessories,8.25,5.909032633745278,4
+Eastern Asia,Second Class,Boxing & MMA,6.0,,1
+Eastern Asia,Second Class,Camping & Hiking,39.583333333333336,95.80610944016361,12
+Eastern Asia,Second Class,Cardio Equipment,53.27272727272727,86.91615604603197,11
+Eastern Asia,Second Class,Cleats,49.28,92.31085165533536,25
+Eastern Asia,Second Class,DVDs,6.666666666666667,3.0550504633038935,3
+Eastern Asia,Second Class,Electronics,3.75,0.49999999999999994,4
+Eastern Asia,Second Class,Fishing,4.3,1.3416407864998738,20
+Eastern Asia,Second Class,Fitness Accessories,17.0,,1
+Eastern Asia,Second Class,Garden,89.25,135.70894099751374,4
+Eastern Asia,Second Class,Golf Balls,4.0,,1
+Eastern Asia,Second Class,Golf Shoes,3.0,0.0,2
+Eastern Asia,Second Class,Health and Beauty,9.0,,1
+Eastern Asia,Second Class,Indoor/Outdoor Games,59.30434782608695,101.91727250462802,23
+Eastern Asia,Second Class,Men's Clothing,3.0,,1
+Eastern Asia,Second Class,Men's Footwear,5.208333333333333,4.085809660239956,24
+Eastern Asia,Second Class,Music,16.5,4.949747468305833,2
+Eastern Asia,Second Class,Pet Supplies,160.0,212.13203435596427,2
+Eastern Asia,Second Class,Shop By Sport,19.5,45.88806256222075,8
+Eastern Asia,Second Class,Sporting Goods,4.5,0.7071067811865476,2
+Eastern Asia,Second Class,Toys,1.0,,1
+Eastern Asia,Second Class,Video Games,4.6,3.2863353450309964,5
+Eastern Asia,Second Class,Water Sports,3.5,1.224744871391589,22
+Eastern Asia,Second Class,Women's Apparel,6.9411764705882355,10.871238362275559,17
+Eastern Asia,Second Class,Women's Clothing,6.666666666666667,7.371114795831994,3
+Eastern Asia,Standard Class,Accessories,4.0,2.8284271247461903,2
+Eastern Asia,Standard Class,Baseball & Softball,4.0,0.0,2
+Eastern Asia,Standard Class,Boxing & MMA,6.0,,1
+Eastern Asia,Standard Class,Camping & Hiking,20.040816326530614,68.45861255279031,49
+Eastern Asia,Standard Class,Cardio Equipment,57.666666666666664,97.77525249264254,36
+Eastern Asia,Standard Class,Cleats,27.107142857142858,57.96530284495249,84
+Eastern Asia,Standard Class,DVDs,4.875,3.9798600118956085,8
+Eastern Asia,Standard Class,Electronics,3.5,1.5491933384829668,16
+Eastern Asia,Standard Class,Fishing,13.105263157894736,44.869128828232355,57
+Eastern Asia,Standard Class,Fitness Accessories,72.0,101.82337649086284,2
+Eastern Asia,Standard Class,Garden,55.529411764705884,116.50328195326667,17
+Eastern Asia,Standard Class,Girls' Apparel,1.8,0.4472135954999579,5
+Eastern Asia,Standard Class,Golf Apparel,1.0,,1
+Eastern Asia,Standard Class,Golf Balls,39.75,72.85773809280658,4
+Eastern Asia,Standard Class,Golf Gloves,4.0,1.7888543819998317,6
+Eastern Asia,Standard Class,Health and Beauty,4.8,4.024922359499621,5
+Eastern Asia,Standard Class,Hockey,3.0,,1
+Eastern Asia,Standard Class,Indoor/Outdoor Games,49.625,80.64239221733946,72
+Eastern Asia,Standard Class,Lacrosse,5.0,4.242640687119285,2
+Eastern Asia,Standard Class,Men's Clothing,2.0,,1
+Eastern Asia,Standard Class,Men's Footwear,12.868131868131869,42.61434520888967,91
+Eastern Asia,Standard Class,Music,4.5,4.949747468305833,2
+Eastern Asia,Standard Class,Pet Supplies,3.4545454545454546,2.3393860888547815,11
+Eastern Asia,Standard Class,Shop By Sport,10.285714285714286,32.8279221679898,42
+Eastern Asia,Standard Class,Sporting Goods,3.0,2.0,6
+Eastern Asia,Standard Class,Toys,4.571428571428571,2.14919697074224,7
+Eastern Asia,Standard Class,Trade-In,3.6666666666666665,2.3380903889000244,6
+Eastern Asia,Standard Class,Video Games,4.454545454545454,3.6431754380934325,11
+Eastern Asia,Standard Class,Water Sports,3.7551020408163267,2.5210002334134654,49
+Eastern Asia,Standard Class,Women's Apparel,37.986301369863014,95.85296801042688,73
+Eastern Asia,Standard Class,Women's Clothing,4.8,6.016643582596529,5
+Eastern Europe,First Class,Accessories,215.66666666666666,14.011899704655798,3
+Eastern Europe,First Class,Baseball & Softball,1.0,,1
+Eastern Europe,First Class,Boxing & MMA,2.0,,1
+Eastern Europe,First Class,Camping & Hiking,36.07142857142857,87.66761026804537,14
+Eastern Europe,First Class,Cardio Equipment,65.25,124.50803186943403,4
+Eastern Europe,First Class,Cleats,34.666666666666664,68.16847641300625,18
+Eastern Europe,First Class,Electronics,2.3333333333333335,0.5773502691896258,3
+Eastern Europe,First Class,Fishing,2.076923076923077,0.2773500981126145,13
+Eastern Europe,First Class,Girls' Apparel,2.0,,1
+Eastern Europe,First Class,Golf Balls,2.0,,1
+Eastern Europe,First Class,Indoor/Outdoor Games,49.84615384615385,93.49674339591206,13
+Eastern Europe,First Class,Men's Footwear,71.2,124.76045618933681,15
+Eastern Europe,First Class,Shop By Sport,2.857142857142857,1.3451854182690985,7
+Eastern Europe,First Class,Water Sports,2.0,0.0,5
+Eastern Europe,First Class,Women's Apparel,16.076923076923077,54.458735260322065,26
+Eastern Europe,Same Day,Boxing & MMA,0.0,,1
+Eastern Europe,Same Day,Camping & Hiking,69.66666666666667,88.34855214810635,6
+Eastern Europe,Same Day,Cardio Equipment,1.5,0.7071067811865476,2
+Eastern Europe,Same Day,Cleats,2.0,,1
+Eastern Europe,Same Day,Fishing,5.5,0.7071067811865476,2
+Eastern Europe,Same Day,Golf Balls,1.0,,1
+Eastern Europe,Same Day,Indoor/Outdoor Games,117.66666666666667,113.63919511623912,6
+Eastern Europe,Same Day,Men's Footwear,1.0,0.0,2
+Eastern Europe,Same Day,Shop By Sport,22.333333333333332,47.92355023020171,6
+Eastern Europe,Same Day,Water Sports,0.8333333333333334,1.3291601358251257,6
+Eastern Europe,Same Day,Women's Apparel,31.428571428571427,81.39176277498262,7
+Eastern Europe,Second Class,Accessories,5.333333333333333,1.1547005383792517,3
+Eastern Europe,Second Class,Boxing & MMA,2.0,,1
+Eastern Europe,Second Class,Camping & Hiking,25.3,60.73448590197976,10
+Eastern Europe,Second Class,Cardio Equipment,27.615384615384617,66.5927153943263,13
+Eastern Europe,Second Class,Cleats,25.952380952380953,61.76445271390024,21
+Eastern Europe,Second Class,Electronics,3.6666666666666665,1.9663841605003503,6
+Eastern Europe,Second Class,Fishing,3.176470588235294,1.4677914581799016,17
+Eastern Europe,Second Class,Golf Balls,61.833333333333336,97.90897132881473,6
+Eastern Europe,Second Class,Hunting & Shooting,2.0,,1
+Eastern Europe,Second Class,Indoor/Outdoor Games,21.125,48.256842272230756,24
+Eastern Europe,Second Class,Lacrosse,5.0,1.4142135623730951,2
+Eastern Europe,Second Class,Men's Footwear,8.0,16.663859412702564,20
+Eastern Europe,Second Class,Shop By Sport,33.57142857142857,80.89881981598401,7
+Eastern Europe,Second Class,Water Sports,2.75,1.2382783747337807,16
+Eastern Europe,Second Class,Women's Apparel,26.0,85.05430791040304,18
+Eastern Europe,Standard Class,Accessories,60.25,113.8489496364957,4
+Eastern Europe,Standard Class,Boxing & MMA,2.0,,1
+Eastern Europe,Standard Class,Camping & Hiking,51.32258064516129,101.60393269841943,31
+Eastern Europe,Standard Class,Cardio Equipment,74.76190476190476,122.0614209166454,21
+Eastern Europe,Standard Class,Cleats,35.07142857142857,75.7481130020849,56
+Eastern Europe,Standard Class,Electronics,83.0,158.1818573667663,9
+Eastern Europe,Standard Class,Fishing,41.5,97.73603907123173,28
+Eastern Europe,Standard Class,Girls' Apparel,4.0,0.0,2
+Eastern Europe,Standard Class,Golf Balls,6.0,,1
+Eastern Europe,Standard Class,Golf Gloves,5.0,,1
+Eastern Europe,Standard Class,Hockey,3.0,1.4142135623730951,2
+Eastern Europe,Standard Class,Hunting & Shooting,2.0,,1
+Eastern Europe,Standard Class,Indoor/Outdoor Games,58.48979591836735,112.04763169611165,49
+Eastern Europe,Standard Class,Men's Footwear,48.72093023255814,101.27927573967024,43
+Eastern Europe,Standard Class,Shop By Sport,41.46153846153846,106.58939188089246,26
+Eastern Europe,Standard Class,Water Sports,19.0,72.00231477760514,25
+Eastern Europe,Standard Class,Women's Apparel,22.057142857142857,66.47774632388285,35
+North Africa,First Class,Accessories,232.5,6.363961030678928,2
+North Africa,First Class,Camping & Hiking,90.66666666666667,110.37874191467607,6
+North Africa,First Class,Cardio Equipment,2.8,1.3038404810405297,5
+North Africa,First Class,Cleats,17.846153846153847,30.832467070298243,13
+North Africa,First Class,Fishing,2.142857142857143,0.3779644730092273,7
+North Africa,First Class,Golf Gloves,3.5,2.1213203435596424,2
+North Africa,First Class,Hockey,5.0,,1
+North Africa,First Class,Indoor/Outdoor Games,87.8,117.97754023541938,5
+North Africa,First Class,Men's Footwear,38.75,85.98961731345409,8
+North Africa,First Class,Shop By Sport,3.6666666666666665,2.0816659994661326,3
+North Africa,First Class,Water Sports,2.5,1.224744871391589,6
+North Africa,First Class,Women's Apparel,2.6,1.3416407864998738,5
+North Africa,Same Day,Accessories,230.0,,1
+North Africa,Same Day,Cardio Equipment,40.142857142857146,83.48139228081224,7
+North Africa,Same Day,Cleats,46.1,68.25027472472182,10
+North Africa,Same Day,Electronics,3.0,,1
+North Africa,Same Day,Fishing,0.3333333333333333,0.5,9
+North Africa,Same Day,Golf Balls,111.0,,1
+North Africa,Same Day,Indoor/Outdoor Games,25.4,78.56660302642028,10
+North Africa,Same Day,Men's Footwear,12.0,23.49468024894146,5
+North Africa,Same Day,Shop By Sport,231.0,,1
+North Africa,Same Day,Water Sports,0.0,0.0,2
+North Africa,Same Day,Women's Apparel,84.33333333333333,136.313853539054,6
+North Africa,Second Class,Accessories,3.0,1.4142135623730951,2
+North Africa,Second Class,Camping & Hiking,52.625,125.47388743707366,8
+North Africa,Second Class,Cardio Equipment,43.375,77.0026669296961,8
+North Africa,Second Class,Cleats,45.473684210526315,103.13172182594269,19
+North Africa,Second Class,Electronics,6.0,,1
+North Africa,Second Class,Fishing,4.555555555555555,2.4037008503093262,9
+North Africa,Second Class,Indoor/Outdoor Games,52.083333333333336,115.94313522611249,12
+North Africa,Second Class,Lacrosse,218.0,203.64675298172568,2
+North Africa,Second Class,Men's Footwear,65.875,117.09390309856933,8
+North Africa,Second Class,Shop By Sport,49.714285714285715,125.3617622266512,7
+North Africa,Second Class,Tennis & Racquet,2.0,,1
+North Africa,Second Class,Water Sports,4.583333333333333,5.333570070503405,12
+North Africa,Second Class,Women's Apparel,22.266666666666666,36.338619100004856,15
+North Africa,Standard Class,Accessories,143.33333333333334,111.5541721915112,3
+North Africa,Standard Class,Baseball & Softball,64.33333333333333,145.83506665636583,6
+North Africa,Standard Class,Boxing & MMA,4.0,,1
+North Africa,Standard Class,Camping & Hiking,64.76190476190476,104.93231378460344,21
+North Africa,Standard Class,Cardio Equipment,67.04166666666667,101.486122061169,24
+North Africa,Standard Class,Cleats,58.52173913043478,110.97361831242888,46
+North Africa,Standard Class,Electronics,82.125,148.0004222966948,8
+North Africa,Standard Class,Fishing,15.571428571428571,33.45874168222684,35
+North Africa,Standard Class,Fitness Accessories,3.0,0.0,2
+North Africa,Standard Class,Girls' Apparel,5.5,0.7071067811865476,2
+North Africa,Standard Class,Golf Apparel,3.5,2.1213203435596424,2
+North Africa,Standard Class,Golf Shoes,2.0,,1
+North Africa,Standard Class,Indoor/Outdoor Games,42.5,94.82824764659598,30
+North Africa,Standard Class,Lacrosse,4.0,,1
+North Africa,Standard Class,Men's Footwear,55.23076923076923,103.97354459528877,39
+North Africa,Standard Class,Shop By Sport,3.4285714285714284,1.5045717874984443,14
+North Africa,Standard Class,Trade-In,3.0,1.4142135623730951,2
+North Africa,Standard Class,Water Sports,9.423076923076923,17.022744965305865,26
+North Africa,Standard Class,Women's Apparel,35.90625,88.40937017008417,32
+Northern Europe,First Class,Accessories,2.0,0.0,2
+Northern Europe,First Class,Baby,44.5,60.10407640085654,2
+Northern Europe,First Class,Baseball & Softball,2.0,,1
+Northern Europe,First Class,Books,6.0,8.48528137423857,2
+Northern Europe,First Class,CDs,47.5,65.76093065034893,2
+Northern Europe,First Class,Cameras,27.916666666666668,34.09467655950075,12
+Northern Europe,First Class,Camping & Hiking,18.47826086956522,57.66507495499523,23
+Northern Europe,First Class,Cardio Equipment,51.86666666666667,54.94785406789484,15
+Northern Europe,First Class,Cleats,17.404255319148938,45.42009686130047,47
+Northern Europe,First Class,Consumer Electronics,2.0,,1
+Northern Europe,First Class,Crafts,48.5,52.646620657613596,4
+Northern Europe,First Class,DVDs,61.0,,1
+Northern Europe,First Class,Electronics,1.6666666666666667,0.5773502691896257,3
+Northern Europe,First Class,Fishing,3.909090909090909,5.811430742315292,33
+Northern Europe,First Class,Girls' Apparel,2.0,0.0,2
+Northern Europe,First Class,Golf Bags & Carts,4.0,,1
+Northern Europe,First Class,Golf Gloves,4.0,2.0,3
+Northern Europe,First Class,Golf Shoes,2.0,,1
+Northern Europe,First Class,Hunting & Shooting,42.0,,1
+Northern Europe,First Class,Indoor/Outdoor Games,26.266666666666666,67.66088532009356,30
+Northern Europe,First Class,Men's Footwear,5.28125,13.313186223416047,32
+Northern Europe,First Class,Shop By Sport,7.076923076923077,13.015769528162997,13
+Northern Europe,First Class,Trade-In,2.0,,1
+Northern Europe,First Class,Water Sports,3.772727272727273,4.869064818606567,22
+Northern Europe,First Class,Women's Apparel,19.93103448275862,50.671865280789525,29
+Northern Europe,First Class,Women's Golf Clubs,2.0,,1
+Northern Europe,Same Day,Baby,88.0,,1
+Northern Europe,Same Day,Books,2.5,3.5355339059327378,2
+Northern Europe,Same Day,Boxing & MMA,1.0,,1
+Northern Europe,Same Day,CDs,23.25,40.03644173333423,4
+Northern Europe,Same Day,Cameras,8.0,,1
+Northern Europe,Same Day,Camping & Hiking,26.0,26.47010892812243,4
+Northern Europe,Same Day,Cardio Equipment,30.88888888888889,38.5306515791144,9
+Northern Europe,Same Day,Cleats,37.9375,67.08250517087149,16
+Northern Europe,Same Day,Consumer Electronics,0.0,,1
+Northern Europe,Same Day,Crafts,30.0,,1
+Northern Europe,Same Day,Electronics,3.5,2.1213203435596424,2
+Northern Europe,Same Day,Fishing,21.53846153846154,71.96598199220631,13
+Northern Europe,Same Day,Golf Apparel,6.0,,1
+Northern Europe,Same Day,Indoor/Outdoor Games,42.6,90.80088105299419,5
+Northern Europe,Same Day,Kids' Golf Clubs,0.0,,1
+Northern Europe,Same Day,Men's Footwear,1.3333333333333333,1.5811388300841898,9
+Northern Europe,Same Day,Men's Golf Clubs,1.0,,1
+Northern Europe,Same Day,Shop By Sport,31.8,62.76304645251057,5
+Northern Europe,Same Day,Water Sports,0.8,1.0327955589886444,10
+Northern Europe,Same Day,Women's Apparel,6.666666666666667,18.18757484624816,12
+Northern Europe,Second Class,Baby,88.0,,1
+Northern Europe,Second Class,Baseball & Softball,27.333333333333332,41.30778780488412,3
+Northern Europe,Second Class,Basketball,4.333333333333333,2.081665999466133,3
+Northern Europe,Second Class,CDs,7.0,4.242640687119285,2
+Northern Europe,Second Class,Cameras,27.22222222222222,34.24462650467142,9
+Northern Europe,Second Class,Camping & Hiking,13.434782608695652,32.98322726223756,23
+Northern Europe,Second Class,Cardio Equipment,76.63333333333334,86.76145788720152,30
+Northern Europe,Second Class,Cleats,13.894736842105264,30.684787562678576,38
+Northern Europe,Second Class,Consumer Electronics,31.8,49.68098227692363,5
+Northern Europe,Second Class,Crafts,27.6,33.26860381801436,5
+Northern Europe,Second Class,DVDs,5.25,5.737304826019502,4
+Northern Europe,Second Class,Electronics,159.5,217.08178182427008,2
+Northern Europe,Second Class,Fishing,3.588235294117647,2.105082551592599,34
+Northern Europe,Second Class,Girls' Apparel,4.0,,1
+Northern Europe,Second Class,Golf Gloves,27.666666666666668,40.99186911246343,3
+Northern Europe,Second Class,Hockey,6.0,,1
+Northern Europe,Second Class,Hunting & Shooting,4.0,,1
+Northern Europe,Second Class,Indoor/Outdoor Games,12.282051282051283,24.23997211865332,39
+Northern Europe,Second Class,Kids' Golf Clubs,4.0,0.0,2
+Northern Europe,Second Class,Lacrosse,14.0,,1
+Northern Europe,Second Class,Men's Footwear,9.577777777777778,19.386603726295228,45
+Northern Europe,Second Class,Men's Golf Clubs,38.5,48.79036790187178,2
+Northern Europe,Second Class,Shop By Sport,12.055555555555555,33.216707741776794,18
+Northern Europe,Second Class,Strength Training,4.0,,1
+Northern Europe,Second Class,Tennis & Racquet,43.333333333333336,71.59143337951359,3
+Northern Europe,Second Class,Trade-In,3.75,1.2583057392117916,4
+Northern Europe,Second Class,Water Sports,4.0285714285714285,1.6888164021989291,35
+Northern Europe,Second Class,Women's Apparel,7.8,21.169886692283043,40
+Northern Europe,Standard Class,Accessories,4.222222222222222,1.5634719199411433,9
+Northern Europe,Standard Class,As Seen on  TV!,2.0,,1
+Northern Europe,Standard Class,Baby,7.333333333333333,9.352361555600098,6
+Northern Europe,Standard Class,Baseball & Softball,4.0,2.0,3
+Northern Europe,Standard Class,Books,2.3333333333333335,0.5773502691896258,3
+Northern Europe,Standard Class,Boxing & MMA,4.5,1.9148542155126762,4
+Northern Europe,Standard Class,CDs,28.2,38.55385843206877,10
+Northern Europe,Standard Class,Cameras,15.448275862068966,24.21715184223268,29
+Northern Europe,Standard Class,Camping & Hiking,18.05263157894737,41.0812294510995,95
+Northern Europe,Standard Class,Cardio Equipment,30.09090909090909,55.79074289707024,66
+Northern Europe,Standard Class,Cleats,22.342657342657343,43.44757321463321,143
+Northern Europe,Standard Class,Consumer Electronics,4.166666666666667,3.0605010483034745,6
+Northern Europe,Standard Class,Crafts,26.818181818181817,36.804396970520195,11
+Northern Europe,Standard Class,DVDs,17.846153846153847,22.292921723595562,13
+Northern Europe,Standard Class,Electronics,6.111111111111111,10.178954323068314,9
+Northern Europe,Standard Class,Fishing,9.655913978494624,23.50415995726858,93
+Northern Europe,Standard Class,Fitness Accessories,16.0,,1
+Northern Europe,Standard Class,Girls' Apparel,58.333333333333336,85.52114748216763,6
+Northern Europe,Standard Class,Golf Apparel,69.0,,1
+Northern Europe,Standard Class,Golf Bags & Carts,4.0,2.8284271247461903,2
+Northern Europe,Standard Class,Golf Balls,4.0,2.8284271247461903,2
+Northern Europe,Standard Class,Golf Gloves,15.857142857142858,30.59100396864287,7
+Northern Europe,Standard Class,Golf Shoes,2.0,0.0,4
+Northern Europe,Standard Class,Hockey,3.0,1.4142135623730951,2
+Northern Europe,Standard Class,Hunting & Shooting,32.833333333333336,73.57286637522468,6
+Northern Europe,Standard Class,Indoor/Outdoor Games,27.80851063829787,50.36005342087765,94
+Northern Europe,Standard Class,Kids' Golf Clubs,4.25,1.7525491637693285,8
+Northern Europe,Standard Class,Lacrosse,2.0,,1
+Northern Europe,Standard Class,Men's Footwear,16.087719298245613,45.23831906212395,114
+Northern Europe,Standard Class,Men's Golf Clubs,2.0,,1
+Northern Europe,Standard Class,Shop By Sport,11.366666666666667,47.18695836296319,60
+Northern Europe,Standard Class,Soccer,3.5,3.5355339059327378,2
+Northern Europe,Standard Class,Tennis & Racquet,3.0,1.4142135623730951,2
+Northern Europe,Standard Class,Trade-In,3.5,0.7071067811865476,2
+Northern Europe,Standard Class,Water Sports,13.060975609756097,50.210752761371694,82
+Northern Europe,Standard Class,Women's Apparel,21.552,55.62496190647483,125
+Northern Europe,Standard Class,Women's Golf Clubs,2.0,,1
+Oceania,First Class,Accessories,2.0,0.0,3
+Oceania,First Class,Camping & Hiking,1.8571428571428572,0.8644378215075663,14
+Oceania,First Class,Cardio Equipment,75.5,89.27740221049527,12
+Oceania,First Class,Cleats,14.05,35.74540824394534,20
+Oceania,First Class,DVDs,149.33333333333334,160.75156816238734,6
+Oceania,First Class,Electronics,38.5,73.0,4
+Oceania,First Class,Fishing,3.769230769230769,6.379052256590135,13
+Oceania,First Class,Fitness Accessories,294.0,,1
+Oceania,First Class,Garden,2.0,0.0,3
+Oceania,First Class,Girls' Apparel,2.5,0.7071067811865476,2
+Oceania,First Class,Golf Balls,2.0,,1
+Oceania,First Class,Health and Beauty,3.5,3.5355339059327378,2
+Oceania,First Class,Indoor/Outdoor Games,46.833333333333336,77.58126668968785,18
+Oceania,First Class,Men's Footwear,10.652173913043478,40.62646774484492,23
+Oceania,First Class,Pet Supplies,2.6666666666666665,1.2110601416389966,6
+Oceania,First Class,Shop By Sport,7.928571428571429,16.981729030906155,14
+Oceania,First Class,Toys,3.5,1.5118578920369088,8
+Oceania,First Class,Trade-In,2.0,0.0,2
+Oceania,First Class,Video Games,2.0,,1
+Oceania,First Class,Water Sports,4.6875,6.415800807381726,16
+Oceania,First Class,Women's Apparel,42.89473684210526,85.10052535210743,19
+Oceania,First Class,Women's Clothing,5.0,1.4142135623730951,2
+Oceania,Same Day,Accessories,0.0,,1
+Oceania,Same Day,Camping & Hiking,46.833333333333336,94.7194101896051,6
+Oceania,Same Day,Cardio Equipment,103.77777777777777,115.28527418731521,9
+Oceania,Same Day,Cleats,21.157894736842106,40.1085515374558,19
+Oceania,Same Day,DVDs,1.0,,1
+Oceania,Same Day,Electronics,2.5,3.5355339059327378,2
+Oceania,Same Day,Fishing,1.2,0.8366600265340756,5
+Oceania,Same Day,Fitness Accessories,4.0,,1
+Oceania,Same Day,Golf Shoes,0.0,,1
+Oceania,Same Day,Health and Beauty,6.0,,1
+Oceania,Same Day,Indoor/Outdoor Games,28.285714285714285,54.65053813716127,14
+Oceania,Same Day,Men's Footwear,27.214285714285715,90.10521932413542,14
+Oceania,Same Day,Pet Supplies,2.25,2.5,4
+Oceania,Same Day,Shop By Sport,5.333333333333333,9.237604307034013,3
+Oceania,Same Day,Toys,2.0,,1
+Oceania,Same Day,Trade-In,2.5,3.5355339059327378,2
+Oceania,Same Day,Video Games,3.0,2.8284271247461903,2
+Oceania,Same Day,Water Sports,0.25,0.5,4
+Oceania,Same Day,Women's Apparel,26.0,44.0,13
+Oceania,Second Class,Accessories,20.166666666666668,40.607470577058436,6
+Oceania,Second Class,Baseball & Softball,2.0,,1
+Oceania,Second Class,Books,3.0,,1
+Oceania,Second Class,Camping & Hiking,23.727272727272727,64.4547762529526,11
+Oceania,Second Class,Cardio Equipment,103.77777777777777,117.24213384580626,27
+Oceania,Second Class,Cleats,19.044444444444444,38.99997409996549,45
+Oceania,Second Class,DVDs,4.666666666666667,2.309401076758503,3
+Oceania,Second Class,Electronics,2.8,1.6431676725154984,5
+Oceania,Second Class,Fishing,8.0,13.188291568006777,30
+Oceania,Second Class,Garden,67.5,127.00787377166819,4
+Oceania,Second Class,Girls' Apparel,2.0,,1
+Oceania,Second Class,Golf Balls,3.0,1.4142135623730951,2
+Oceania,Second Class,Golf Gloves,2.0,,1
+Oceania,Second Class,Golf Shoes,5.0,1.4142135623730951,2
+Oceania,Second Class,Health and Beauty,0.0,,1
+Oceania,Second Class,Hockey,4.0,2.309401076758503,4
+Oceania,Second Class,Indoor/Outdoor Games,38.47222222222222,77.72754103225338,36
+Oceania,Second Class,Lacrosse,29.5,34.64823227814083,2
+Oceania,Second Class,Men's Footwear,8.155555555555555,21.758964250453772,45
+Oceania,Second Class,Music,2.0,,1
+Oceania,Second Class,Pet Supplies,4.5,0.7071067811865476,2
+Oceania,Second Class,Shop By Sport,16.1875,33.17673632733234,16
+Oceania,Second Class,Sporting Goods,2.0,,1
+Oceania,Second Class,Tennis & Racquet,4.0,2.8284271247461903,2
+Oceania,Second Class,Toys,3.857142857142857,1.2149857925879117,7
+Oceania,Second Class,Trade-In,3.25,1.8929694486000912,4
+Oceania,Second Class,Water Sports,9.903225806451612,33.81947647801947,31
+Oceania,Second Class,Women's Apparel,28.46153846153846,63.00871734560593,26
+Oceania,Second Class,Women's Clothing,4.142857142857143,3.338091841585121,7
+Oceania,Standard Class,Accessories,2.6666666666666665,1.1547005383792517,3
+Oceania,Standard Class,Baseball & Softball,7.4,6.54217089351845,5
+Oceania,Standard Class,Books,2.0,,1
+Oceania,Standard Class,Camping & Hiking,32.92063492063492,66.62686215694609,63
+Oceania,Standard Class,Cardio Equipment,43.28846153846154,75.46959822610862,52
+Oceania,Standard Class,Cleats,38.38636363636363,81.18085837151028,88
+Oceania,Standard Class,DVDs,4.0,1.247219128924647,10
+Oceania,Standard Class,Electronics,18.941176470588236,64.71811047558026,17
+Oceania,Standard Class,Fishing,9.430379746835444,24.958778089083157,79
+Oceania,Standard Class,Fitness Accessories,4.0,,1
+Oceania,Standard Class,Garden,3.5,1.507556722888818,12
+Oceania,Standard Class,Girls' Apparel,8.8,11.388590782006348,5
+Oceania,Standard Class,Golf Apparel,173.0,,1
+Oceania,Standard Class,Golf Balls,19.6,51.103815904489956,10
+Oceania,Standard Class,Golf Gloves,2.0,,1
+Oceania,Standard Class,Health and Beauty,3.4,1.6733200530681511,5
+Oceania,Standard Class,Hockey,3.0,1.1547005383792515,4
+Oceania,Standard Class,Indoor/Outdoor Games,48.61052631578947,91.62983983175123,95
+Oceania,Standard Class,Lacrosse,11.0,,1
+Oceania,Standard Class,Men's Footwear,20.59633027522936,55.2685563384983,109
+Oceania,Standard Class,Music,5.0,,1
+Oceania,Standard Class,Pet Supplies,4.5,1.0,4
+Oceania,Standard Class,Shop By Sport,12.6,55.77222585185738,35
+Oceania,Standard Class,Sporting Goods,17.5,7.76745346515403,4
+Oceania,Standard Class,Tennis & Racquet,12.25,12.010412149464313,4
+Oceania,Standard Class,Toys,3.5,2.138089935299395,8
+Oceania,Standard Class,Trade-In,3.5,1.9148542155126762,4
+Oceania,Standard Class,Video Games,3.9,1.1972189997378648,10
+Oceania,Standard Class,Water Sports,5.761904761904762,16.861594350929554,63
+Oceania,Standard Class,Women's Apparel,30.0,70.62956946261407,98
+Oceania,Standard Class,Women's Clothing,3.8333333333333335,2.041241452319315,6
+South America,First Class,Accessories,61.25,98.12704350313764,4
+South America,First Class,As Seen on  TV!,2.0,,1
+South America,First Class,Baseball & Softball,2.0,,1
+South America,First Class,Boxing & MMA,2.5,0.7071067811865476,2
+South America,First Class,Camping & Hiking,21.346153846153847,56.64058072279436,26
+South America,First Class,Cardio Equipment,32.45161290322581,65.15204714597868,31
+South America,First Class,Cleats,41.57692307692308,80.48464624102527,52
+South America,First Class,Electronics,2.8,1.7888543819998317,5
+South America,First Class,Fishing,10.625,52.13224795264198,48
+South America,First Class,Fitness Accessories,3.3333333333333335,2.3094010767585034,3
+South America,First Class,Girls' Apparel,92.66666666666667,156.17404820690706,3
+South America,First Class,Golf Apparel,2.0,,1
+South America,First Class,Golf Balls,2.0,0.0,4
+South America,First Class,Golf Gloves,2.5714285714285716,0.9759000729485332,7
+South America,First Class,Hockey,2.0,,1
+South America,First Class,Hunting & Shooting,2.0,0.0,2
+South America,First Class,Indoor/Outdoor Games,13.282051282051283,33.27789587062631,39
+South America,First Class,Lacrosse,4.0,,1
+South America,First Class,Men's Footwear,15.981132075471699,52.50182801434256,53
+South America,First Class,Shop By Sport,10.705882352941176,35.403757215236865,34
+South America,First Class,Trade-In,4.0,2.8284271247461903,2
+South America,First Class,Water Sports,3.1041666666666665,4.059344792185553,48
+South America,First Class,Women's Apparel,10.903846153846153,24.400465774551986,52
+South America,Same Day,Accessories,1.0,,1
+South America,Same Day,Camping & Hiking,25.125,73.17911815083134,16
+South America,Same Day,Cardio Equipment,19.0,35.93821859184948,10
+South America,Same Day,Cleats,23.41176470588235,49.462181037042605,17
+South America,Same Day,Electronics,25.25,43.176961449365564,4
+South America,Same Day,Fishing,0.9090909090909091,1.513574937328539,11
+South America,Same Day,Fitness Accessories,1.0,,1
+South America,Same Day,Girls' Apparel,0.0,,1
+South America,Same Day,Golf Balls,2.0,1.4142135623730951,2
+South America,Same Day,Golf Gloves,67.0,,1
+South America,Same Day,Hunting & Shooting,0.0,,1
+South America,Same Day,Indoor/Outdoor Games,29.785714285714285,54.534644699745435,14
+South America,Same Day,Men's Footwear,13.153846153846153,55.7276895682513,26
+South America,Same Day,Shop By Sport,2.75,2.463060426921489,16
+South America,Same Day,Trade-In,1.0,0.816496580927726,4
+South America,Same Day,Water Sports,0.9,0.8755950357709131,10
+South America,Same Day,Women's Apparel,10.928571428571429,34.32976794318551,14
+South America,Second Class,Accessories,4.75,0.9574271077563381,4
+South America,Second Class,Baseball & Softball,3.3333333333333335,1.1547005383792515,3
+South America,Second Class,Boxing & MMA,2.0,,1
+South America,Second Class,Camping & Hiking,22.790697674418606,48.57226238617247,43
+South America,Second Class,Cardio Equipment,31.19607843137255,68.04969349169563,51
+South America,Second Class,Cleats,35.50684931506849,75.94792135398353,73
+South America,Second Class,Electronics,8.0,7.211102550927978,3
+South America,Second Class,Fishing,3.7872340425531914,1.680271331773868,47
+South America,Second Class,Fitness Accessories,4.0,,1
+South America,Second Class,Girls' Apparel,70.25,131.17005501765001,4
+South America,Second Class,Golf Apparel,5.0,,1
+South America,Second Class,Golf Balls,121.0,122.53162856993292,5
+South America,Second Class,Golf Shoes,32.5,43.1335136523794,2
+South America,Second Class,Hockey,4.0,,1
+South America,Second Class,Hunting & Shooting,2.0,,1
+South America,Second Class,Indoor/Outdoor Games,26.51063829787234,56.86210335020863,47
+South America,Second Class,Kids' Golf Clubs,14.0,17.435595774162696,3
+South America,Second Class,Lacrosse,2.0,0.0,2
+South America,Second Class,Men's Footwear,8.506849315068493,27.303908596710734,73
+South America,Second Class,Men's Golf Clubs,4.666666666666667,1.5275252316519465,3
+South America,Second Class,Shop By Sport,8.45,14.918496521484274,40
+South America,Second Class,Soccer,3.0,1.4142135623730951,2
+South America,Second Class,Tennis & Racquet,131.0,182.43354954612926,2
+South America,Second Class,Trade-In,2.888888888888889,1.4529663145135578,9
+South America,Second Class,Water Sports,3.272727272727273,1.5208981928884369,55
+South America,Second Class,Women's Apparel,24.33783783783784,43.79631467170106,74
+South America,Second Class,Women's Golf Clubs,6.0,,1
+South America,Standard Class,Accessories,11.181818181818182,32.532235096075404,22
+South America,Standard Class,As Seen on  TV!,2.0,,1
+South America,Standard Class,Baseball & Softball,4.0,1.632993161855452,4
+South America,Standard Class,Boxing & MMA,3.0,2.6457513110645907,3
+South America,Standard Class,Camping & Hiking,17.398496240601503,51.76080473497765,133
+South America,Standard Class,Cardio Equipment,35.83783783783784,63.91322818556998,111
+South America,Standard Class,Cleats,26.85909090909091,52.36012599001579,220
+South America,Standard Class,Electronics,3.9545454545454546,1.7314258568692733,22
+South America,Standard Class,Fishing,9.363636363636363,33.990169551215224,143
+South America,Standard Class,Fitness Accessories,121.0,206.11404610069638,3
+South America,Standard Class,Girls' Apparel,3.2,1.7888543819998317,5
+South America,Standard Class,Golf Apparel,9.2,11.7983049630021,5
+South America,Standard Class,Golf Bags & Carts,4.0,,1
+South America,Standard Class,Golf Balls,56.53333333333333,99.66935814171251,15
+South America,Standard Class,Golf Gloves,3.6923076923076925,1.5483655567842813,13
+South America,Standard Class,Golf Shoes,2.6,1.3498971154211057,10
+South America,Standard Class,Hockey,2.6666666666666665,2.4221202832779936,6
+South America,Standard Class,Hunting & Shooting,3.25,0.9574271077563381,4
+South America,Standard Class,Indoor/Outdoor Games,17.590425531914892,36.93797827968047,188
+South America,Standard Class,Kids' Golf Clubs,11.666666666666666,18.864428606948756,6
+South America,Standard Class,Lacrosse,2.8,1.0954451150103324,5
+South America,Standard Class,Men's Footwear,12.835164835164836,37.39139373790828,182
+South America,Standard Class,Men's Golf Clubs,3.3333333333333335,1.1547005383792517,3
+South America,Standard Class,Shop By Sport,7.706422018348624,23.87207525319752,109
+South America,Standard Class,Soccer,6.0,,1
+South America,Standard Class,Strength Training,3.0,1.4142135623730951,2
+South America,Standard Class,Tennis & Racquet,4.0,2.8284271247461903,2
+South America,Standard Class,Trade-In,3.8,2.04939015319192,5
+South America,Standard Class,Water Sports,8.614678899082568,34.859216395668064,109
+South America,Standard Class,Women's Apparel,10.875,31.741452530455653,184
+South America,Standard Class,Women's Golf Clubs,6.0,,1
+South Asia,First Class,Accessories,23.0,36.373066958946424,3
+South Asia,First Class,Camping & Hiking,31.52,67.8976680993783,25
+South Asia,First Class,Cardio Equipment,86.66666666666667,100.29713431357423,12
+South Asia,First Class,Cleats,35.12903225806452,60.262615241117146,31
+South Asia,First Class,Electronics,4.666666666666667,1.5275252316519468,3
+South Asia,First Class,Fishing,2.45,1.050062654772261,20
+South Asia,First Class,Garden,2.0,,1
+South Asia,First Class,Girls' Apparel,2.0,,1
+South Asia,First Class,Golf Balls,2.0,0.0,3
+South Asia,First Class,Golf Gloves,2.0,0.0,2
+South Asia,First Class,Golf Shoes,2.0,,1
+South Asia,First Class,Indoor/Outdoor Games,30.652173913043477,73.52279095976861,23
+South Asia,First Class,Lacrosse,2.5,0.7071067811865476,2
+South Asia,First Class,Men's Footwear,12.85,42.24524264714062,20
+South Asia,First Class,Music,1.0,,1
+South Asia,First Class,Shop By Sport,7.25,14.058551032836107,8
+South Asia,First Class,Sporting Goods,117.33333333333333,183.5056765697817,3
+South Asia,First Class,Tennis & Racquet,2.0,,1
+South Asia,First Class,Toys,4.0,1.8708286933869707,5
+South Asia,First Class,Trade-In,2.0,,1
+South Asia,First Class,Water Sports,4.117647058823529,8.230145449361578,17
+South Asia,First Class,Women's Apparel,37.36363636363637,78.83711082535967,22
+South Asia,Same Day,Accessories,132.0,,1
+South Asia,Same Day,Baseball & Softball,0.0,,1
+South Asia,Same Day,Books,1.0,,1
+South Asia,Same Day,Camping & Hiking,53.0,,1
+South Asia,Same Day,Cardio Equipment,157.0,79.19595949289332,2
+South Asia,Same Day,Cleats,28.5,72.89656432856826,12
+South Asia,Same Day,Electronics,1.0,0.0,2
+South Asia,Same Day,Fishing,1.1428571428571428,1.3451854182690985,7
+South Asia,Same Day,Fitness Accessories,2.0,,1
+South Asia,Same Day,Girls' Apparel,1.0,,1
+South Asia,Same Day,Golf Balls,1.0,,1
+South Asia,Same Day,Indoor/Outdoor Games,34.8,76.82418600646254,10
+South Asia,Same Day,Men's Footwear,1.0,0.5,9
+South Asia,Same Day,Pet Supplies,5.0,4.242640687119285,2
+South Asia,Same Day,Shop By Sport,46.2,80.47794728992534,5
+South Asia,Same Day,Sporting Goods,364.0,,1
+South Asia,Same Day,Water Sports,0.5,0.5270462766947299,10
+South Asia,Same Day,Women's Apparel,1.6666666666666667,1.5,9
+South Asia,Same Day,Women's Clothing,1.0,,1
+South Asia,Second Class,Accessories,96.0,157.6197957110718,3
+South Asia,Second Class,Camping & Hiking,40.3,83.1625583487612,10
+South Asia,Second Class,Cardio Equipment,79.08333333333333,107.31386281145205,12
+South Asia,Second Class,Cleats,21.103448275862068,65.28199534524168,29
+South Asia,Second Class,DVDs,11.8,14.822280526288793,5
+South Asia,Second Class,Electronics,34.8,70.00857090385433,5
+South Asia,Second Class,Fishing,33.0,85.49299755874132,20
+South Asia,Second Class,Girls' Apparel,4.0,,1
+South Asia,Second Class,Golf Balls,102.0,135.7645019878171,2
+South Asia,Second Class,Golf Gloves,29.0,,1
+South Asia,Second Class,Health and Beauty,2.5,2.1213203435596424,2
+South Asia,Second Class,Hockey,5.0,,1
+South Asia,Second Class,Hunting & Shooting,2.0,,1
+South Asia,Second Class,Indoor/Outdoor Games,33.041666666666664,63.90582688726379,24
+South Asia,Second Class,Men's Footwear,19.0,53.272276878982446,32
+South Asia,Second Class,Pet Supplies,4.625,3.0676887530703447,8
+South Asia,Second Class,Shop By Sport,3.4285714285714284,1.3985864135061359,14
+South Asia,Second Class,Sporting Goods,363.0,,1
+South Asia,Second Class,Toys,3.2,1.3038404810405297,5
+South Asia,Second Class,Trade-In,2.0,,1
+South Asia,Second Class,Video Games,73.6,127.95428871280555,5
+South Asia,Second Class,Water Sports,3.04,1.567375726067833,25
+South Asia,Second Class,Women's Apparel,29.1875,55.72577949208068,16
+South Asia,Second Class,Women's Clothing,6.75,9.604686356149273,4
+South Asia,Standard Class,Accessories,132.6,135.2841454125353,5
+South Asia,Standard Class,Boxing & MMA,2.0,,1
+South Asia,Standard Class,Camping & Hiking,53.45238095238095,95.4716666898314,42
+South Asia,Standard Class,Cardio Equipment,55.3,92.15432986474651,40
+South Asia,Standard Class,Cleats,36.712765957446805,71.01349596711542,94
+South Asia,Standard Class,DVDs,4.833333333333333,2.786873995477131,6
+South Asia,Standard Class,Electronics,3.7222222222222223,1.227410260553666,18
+South Asia,Standard Class,Fishing,14.309090909090909,50.23606227464444,55
+South Asia,Standard Class,Fitness Accessories,1.0,1.0,3
+South Asia,Standard Class,Garden,2.4285714285714284,1.9880595947760098,7
+South Asia,Standard Class,Girls' Apparel,6.0,9.327379053088816,7
+South Asia,Standard Class,Golf Balls,3.125,1.9594095320493146,8
+South Asia,Standard Class,Golf Gloves,44.142857142857146,109.30756084161267,7
+South Asia,Standard Class,Golf Shoes,3.3333333333333335,2.3094010767585034,3
+South Asia,Standard Class,Health and Beauty,3.75,4.193248541803041,4
+South Asia,Standard Class,Hockey,6.0,,1
+South Asia,Standard Class,Hunting & Shooting,2.0,,1
+South Asia,Standard Class,Indoor/Outdoor Games,33.24285714285714,70.30913844046279,70
+South Asia,Standard Class,Lacrosse,143.0,,1
+South Asia,Standard Class,Men's Footwear,20.353535353535353,57.45403009457586,99
+South Asia,Standard Class,Music,11.0,11.105554165971787,4
+South Asia,Standard Class,Pet Supplies,5.666666666666667,6.772493386240157,6
+South Asia,Standard Class,Shop By Sport,25.523809523809526,82.83549318664691,42
+South Asia,Standard Class,Sporting Goods,39.1,105.5593040270097,10
+South Asia,Standard Class,Tennis & Racquet,7.333333333333333,7.571877794400366,3
+South Asia,Standard Class,Toys,2.1,1.5951314818673865,10
+South Asia,Standard Class,Trade-In,2.75,1.0350983390135313,8
+South Asia,Standard Class,Video Games,55.2,80.31438227366255,10
+South Asia,Standard Class,Water Sports,11.0,50.38545303508762,50
+South Asia,Standard Class,Women's Apparel,26.602564102564102,67.42467461239058,78
+South Asia,Standard Class,Women's Clothing,64.41666666666667,125.37468088119151,12
+South of  USA,First Class,Accessories,12.0,17.320508075688775,3
+South of  USA,First Class,Camping & Hiking,31.75,44.35420447427114,12
+South of  USA,First Class,Cardio Equipment,58.125,77.76418106778246,8
+South of  USA,First Class,Cleats,26.26086956521739,76.45629612655392,23
+South of  USA,First Class,Electronics,106.5,147.78531726798843,2
+South of  USA,First Class,Fishing,2.0,0.0,9
+South of  USA,First Class,Girls' Apparel,2.0,1.4142135623730951,2
+South of  USA,First Class,Golf Balls,2.0,,1
+South of  USA,First Class,Indoor/Outdoor Games,23.11111111111111,43.74241297425712,18
+South of  USA,First Class,Men's Footwear,20.3125,40.64598176121883,16
+South of  USA,First Class,Shop By Sport,3.4,1.9493588689617927,5
+South of  USA,First Class,Trade-In,6.0,,1
+South of  USA,First Class,Water Sports,2.6363636363636362,1.3618169680781096,11
+South of  USA,First Class,Women's Apparel,17.363636363636363,49.635214771919195,11
+South of  USA,Same Day,Accessories,0.0,,1
+South of  USA,Same Day,Camping & Hiking,24.666666666666668,40.12895878705717,3
+South of  USA,Same Day,Cardio Equipment,27.333333333333332,22.94195574342635,3
+South of  USA,Same Day,Cleats,32.333333333333336,54.28013755816517,3
+South of  USA,Same Day,Fishing,1.5,1.2909944487358056,4
+South of  USA,Same Day,Indoor/Outdoor Games,2.3333333333333335,2.3094010767585034,3
+South of  USA,Same Day,Men's Footwear,19.444444444444443,35.777475844136596,9
+South of  USA,Same Day,Shop By Sport,1.0,1.4142135623730951,2
+South of  USA,Same Day,Water Sports,2.5,3.5355339059327378,2
+South of  USA,Same Day,Women's Apparel,4.833333333333333,4.833908011812665,6
+South of  USA,Second Class,Accessories,4.0,0.0,2
+South of  USA,Second Class,Baseball & Softball,6.0,,1
+South of  USA,Second Class,Camping & Hiking,3.6666666666666665,2.1213203435596424,9
+South of  USA,Second Class,Cardio Equipment,49.857142857142854,69.26381588157116,7
+South of  USA,Second Class,Cleats,22.333333333333332,51.943670716808526,24
+South of  USA,Second Class,Electronics,4.0,,1
+South of  USA,Second Class,Fishing,3.0,0.9258200997725515,15
+South of  USA,Second Class,Fitness Accessories,4.0,,1
+South of  USA,Second Class,Girls' Apparel,2.0,,1
+South of  USA,Second Class,Golf Gloves,4.0,,1
+South of  USA,Second Class,Indoor/Outdoor Games,21.928571428571427,49.524351340137464,28
+South of  USA,Second Class,Men's Footwear,17.833333333333332,36.184575849549,18
+South of  USA,Second Class,Shop By Sport,21.0,55.525769793052945,10
+South of  USA,Second Class,Trade-In,2.0,,1
+South of  USA,Second Class,Water Sports,3.9,0.7378647873726218,10
+South of  USA,Second Class,Women's Apparel,33.22727272727273,67.34554237603315,22
+South of  USA,Standard Class,Accessories,2.0,0.0,5
+South of  USA,Standard Class,Baseball & Softball,2.0,,1
+South of  USA,Standard Class,Boxing & MMA,2.0,,1
+South of  USA,Standard Class,Camping & Hiking,12.634146341463415,39.44664503957274,41
+South of  USA,Standard Class,Cardio Equipment,31.78125,63.43741359441119,32
+South of  USA,Standard Class,Cleats,28.083333333333332,52.211853861128304,60
+South of  USA,Standard Class,Electronics,3.5,1.7728105208558367,8
+South of  USA,Standard Class,Fishing,16.3125,41.24156805316537,32
+South of  USA,Standard Class,Girls' Apparel,4.0,,1
+South of  USA,Standard Class,Golf Apparel,4.0,,1
+South of  USA,Standard Class,Golf Balls,2.0,,1
+South of  USA,Standard Class,Golf Gloves,2.0,0.0,5
+South of  USA,Standard Class,Golf Shoes,5.0,1.0,3
+South of  USA,Standard Class,Hockey,6.0,,1
+South of  USA,Standard Class,Hunting & Shooting,2.0,,1
+South of  USA,Standard Class,Indoor/Outdoor Games,39.80434782608695,74.44778022665503,46
+South of  USA,Standard Class,Lacrosse,2.0,,1
+South of  USA,Standard Class,Men's Footwear,13.387096774193548,33.732484143849696,62
+South of  USA,Standard Class,Shop By Sport,5.346153846153846,10.847828566832378,26
+South of  USA,Standard Class,Trade-In,5.0,1.0,3
+South of  USA,Standard Class,Water Sports,3.7027027027027026,1.6644128905623963,37
+South of  USA,Standard Class,Women's Apparel,17.209302325581394,39.24620584605835,43
+Southeast Asia,First Class,Accessories,33.0,51.54286242213044,4
+Southeast Asia,First Class,Baseball & Softball,3.0,,1
+Southeast Asia,First Class,Camping & Hiking,24.5,58.135996745966764,18
+Southeast Asia,First Class,Cardio Equipment,57.125,88.60765580166687,16
+Southeast Asia,First Class,Cleats,24.64864864864865,61.51025940452545,37
+Southeast Asia,First Class,DVDs,1.5,2.1213203435596424,2
+Southeast Asia,First Class,Electronics,37.111111111111114,87.23738367873668,9
+Southeast Asia,First Class,Fishing,2.8529411764705883,5.3378712868729625,34
+Southeast Asia,First Class,Fitness Accessories,2.0,0.0,2
+Southeast Asia,First Class,Garden,2.3333333333333335,2.0816659994661326,3
+Southeast Asia,First Class,Girls' Apparel,2.0,0.0,2
+Southeast Asia,First Class,Golf Balls,2.0,,1
+Southeast Asia,First Class,Hockey,2.0,0.0,2
+Southeast Asia,First Class,Indoor/Outdoor Games,38.31818181818182,79.55255008551407,22
+Southeast Asia,First Class,Lacrosse,2.0,,1
+Southeast Asia,First Class,Men's Clothing,3.3333333333333335,2.886751345948129,3
+Southeast Asia,First Class,Men's Footwear,9.970588235294118,45.06929701001367,34
+Southeast Asia,First Class,Pet Supplies,8.285714285714286,14.488090347066514,7
+Southeast Asia,First Class,Shop By Sport,27.76923076923077,51.408744142985775,13
+Southeast Asia,First Class,Sporting Goods,1.5,0.7071067811865476,2
+Southeast Asia,First Class,Toys,2.0,,1
+Southeast Asia,First Class,Trade-In,2.0,,1
+Southeast Asia,First Class,Video Games,2.0,,1
+Southeast Asia,First Class,Water Sports,2.2916666666666665,1.082636342118332,24
+Southeast Asia,First Class,Women's Apparel,22.791666666666668,52.37986600134484,24
+Southeast Asia,First Class,Women's Clothing,3.6,2.5099800796022267,5
+Southeast Asia,Same Day,Accessories,4.0,,1
+Southeast Asia,Same Day,Camping & Hiking,0.0,0.0,2
+Southeast Asia,Same Day,Cardio Equipment,30.2,27.45359721420856,5
+Southeast Asia,Same Day,Cleats,32.470588235294116,75.49016297427336,17
+Southeast Asia,Same Day,Electronics,190.66666666666666,164.2630005002141,3
+Southeast Asia,Same Day,Fishing,44.0,95.05524709346665,5
+Southeast Asia,Same Day,Garden,3.0,,1
+Southeast Asia,Same Day,Golf Gloves,0.0,,1
+Southeast Asia,Same Day,Indoor/Outdoor Games,33.90909090909091,73.23039607356299,11
+Southeast Asia,Same Day,Men's Clothing,2.0,,1
+Southeast Asia,Same Day,Men's Footwear,37.875,55.82738063505602,8
+Southeast Asia,Same Day,Pet Supplies,0.5,0.7071067811865476,2
+Southeast Asia,Same Day,Shop By Sport,179.5,253.85133444597056,2
+Southeast Asia,Same Day,Sporting Goods,2.0,,1
+Southeast Asia,Same Day,Toys,2.0,,1
+Southeast Asia,Same Day,Trade-In,1.0,,1
+Southeast Asia,Same Day,Video Games,4.0,,1
+Southeast Asia,Same Day,Water Sports,1.6666666666666667,2.29128784747792,9
+Southeast Asia,Same Day,Women's Apparel,2.3636363636363638,2.013590190318143,11
+Southeast Asia,Same Day,Women's Clothing,1.5,2.3804761428476167,4
+Southeast Asia,Second Class,Accessories,4.0,1.632993161855452,4
+Southeast Asia,Second Class,Baseball & Softball,189.0,,1
+Southeast Asia,Second Class,Books,4.333333333333333,1.5275252316519468,3
+Southeast Asia,Second Class,Camping & Hiking,5.761904761904762,7.15475200062701,21
+Southeast Asia,Second Class,Cardio Equipment,52.51851851851852,88.05608805684388,27
+Southeast Asia,Second Class,Cleats,15.636363636363637,43.316622787622286,44
+Southeast Asia,Second Class,DVDs,21.0,7.0710678118654755,2
+Southeast Asia,Second Class,Electronics,3.625,2.065879266282796,8
+Southeast Asia,Second Class,Fishing,17.818181818181817,42.43778869228354,33
+Southeast Asia,Second Class,Garden,4.5,2.1213203435596424,2
+Southeast Asia,Second Class,Golf Balls,197.0,,1
+Southeast Asia,Second Class,Golf Gloves,6.0,,1
+Southeast Asia,Second Class,Health and Beauty,8.5,9.192388155425117,2
+Southeast Asia,Second Class,Hockey,4.0,,1
+Southeast Asia,Second Class,Hunting & Shooting,101.0,,1
+Southeast Asia,Second Class,Indoor/Outdoor Games,22.242424242424242,49.90805940867061,33
+Southeast Asia,Second Class,Men's Footwear,16.958333333333332,43.93124981314471,24
+Southeast Asia,Second Class,Music,0.0,,1
+Southeast Asia,Second Class,Pet Supplies,6.833333333333333,7.600438583836242,6
+Southeast Asia,Second Class,Shop By Sport,3.6666666666666665,1.6143297699232972,12
+Southeast Asia,Second Class,Sporting Goods,7.25,8.845903006477068,4
+Southeast Asia,Second Class,Toys,4.571428571428571,1.618347187425374,7
+Southeast Asia,Second Class,Video Games,3.0,0.0,2
+Southeast Asia,Second Class,Water Sports,3.5,1.6256866681058633,22
+Southeast Asia,Second Class,Women's Apparel,42.6551724137931,76.91427317942498,29
+Southeast Asia,Second Class,Women's Clothing,2.7142857142857144,1.6035674514745464,7
+Southeast Asia,Standard Class,Accessories,17.7,29.044219160904753,10
+Southeast Asia,Standard Class,Baseball & Softball,2.8,1.0954451150103324,5
+Southeast Asia,Standard Class,Boxing & MMA,3.5,2.1213203435596424,2
+Southeast Asia,Standard Class,Camping & Hiking,30.653333333333332,70.55503761839641,75
+Southeast Asia,Standard Class,Cardio Equipment,65.86440677966101,102.32410603957017,59
+Southeast Asia,Standard Class,Cleats,52.916666666666664,94.9010615567278,120
+Southeast Asia,Standard Class,DVDs,4.866666666666666,6.457184997755454,15
+Southeast Asia,Standard Class,Electronics,13.666666666666666,32.90035460801803,21
+Southeast Asia,Standard Class,Fishing,12.581395348837209,48.08851278173934,86
+Southeast Asia,Standard Class,Fitness Accessories,106.0,144.2497833620557,2
+Southeast Asia,Standard Class,Garden,2.625,1.1877349391654208,8
+Southeast Asia,Standard Class,Girls' Apparel,34.0,56.323047807142984,8
+Southeast Asia,Standard Class,Golf Apparel,4.0,0.0,2
+Southeast Asia,Standard Class,Golf Balls,21.142857142857142,46.27248488186967,7
+Southeast Asia,Standard Class,Golf Gloves,5.0,1.4142135623730951,2
+Southeast Asia,Standard Class,Health and Beauty,3.0,1.7320508075688772,3
+Southeast Asia,Standard Class,Hockey,6.0,,1
+Southeast Asia,Standard Class,Hunting & Shooting,4.75,0.9574271077563381,4
+Southeast Asia,Standard Class,Indoor/Outdoor Games,44.43689320388349,79.05975276903062,103
+Southeast Asia,Standard Class,Men's Footwear,22.89423076923077,65.76863215927156,104
+Southeast Asia,Standard Class,Music,4.0,,1
+Southeast Asia,Standard Class,Pet Supplies,4.0,6.442049363362563,13
+Southeast Asia,Standard Class,Shop By Sport,10.192307692307692,41.55461252401611,52
+Southeast Asia,Standard Class,Sporting Goods,1.2,0.8366600265340756,5
+Southeast Asia,Standard Class,Tennis & Racquet,2.0,2.0,3
+Southeast Asia,Standard Class,Toys,3.0,2.6457513110645907,3
+Southeast Asia,Standard Class,Trade-In,3.8,1.3038404810405297,5
+Southeast Asia,Standard Class,Video Games,21.142857142857142,67.34852764407086,14
+Southeast Asia,Standard Class,Water Sports,12.702702702702704,47.70363121347786,74
+Southeast Asia,Standard Class,Women's Apparel,27.076190476190476,67.46690003796381,105
+Southeast Asia,Standard Class,Women's Clothing,4.3,3.368151487751768,10
+Southern Africa,First Class,Accessories,2.0,,1
+Southern Africa,First Class,Camping & Hiking,2.0,0.0,3
+Southern Africa,First Class,Cardio Equipment,71.0,119.51150572225254,3
+Southern Africa,First Class,Cleats,2.0,0.0,7
+Southern Africa,First Class,Electronics,4.0,,1
+Southern Africa,First Class,Fishing,2.0,0.0,7
+Southern Africa,First Class,Indoor/Outdoor Games,158.0,220.61731573020282,2
+Southern Africa,First Class,Men's Footwear,9.375,18.890190197938338,8
+Southern Africa,First Class,Shop By Sport,94.6,124.98319887088824,5
+Southern Africa,First Class,Water Sports,2.0,0.0,4
+Southern Africa,First Class,Women's Apparel,3.5,2.1213203435596424,2
+Southern Africa,Same Day,Camping & Hiking,1.0,0.0,2
+Southern Africa,Same Day,Cleats,1.0,,1
+Southern Africa,Same Day,Fishing,1.0,,1
+Southern Africa,Same Day,Water Sports,1.0,,1
+Southern Africa,Same Day,Women's Apparel,1.0,,1
+Southern Africa,Second Class,Camping & Hiking,193.0,,1
+Southern Africa,Second Class,Cardio Equipment,50.5,68.58935777509511,2
+Southern Africa,Second Class,Cleats,12.4,23.25510696599781,5
+Southern Africa,Second Class,Electronics,2.0,,1
+Southern Africa,Second Class,Fishing,3.0,1.4142135623730951,2
+Southern Africa,Second Class,Golf Balls,2.0,,1
+Southern Africa,Second Class,Indoor/Outdoor Games,157.0,138.67588110410549,3
+Southern Africa,Second Class,Shop By Sport,16.0,21.702534414210707,3
+Southern Africa,Second Class,Trade-In,4.0,,1
+Southern Africa,Second Class,Water Sports,4.0,0.0,2
+Southern Africa,Second Class,Women's Apparel,49.75,90.83455656668703,4
+Southern Africa,Standard Class,Accessories,77.2,159.2331623751786,5
+Southern Africa,Standard Class,Baseball & Softball,3.0,1.7320508075688772,3
+Southern Africa,Standard Class,Camping & Hiking,5.0,2.4899799195977463,11
+Southern Africa,Standard Class,Cardio Equipment,100.9,128.33935050828677,10
+Southern Africa,Standard Class,Cleats,54.21739130434783,92.45881467479016,23
+Southern Africa,Standard Class,Electronics,4.5,2.1213203435596424,2
+Southern Africa,Standard Class,Fishing,8.52,18.193680221439532,25
+Southern Africa,Standard Class,Fitness Accessories,62.0,,1
+Southern Africa,Standard Class,Golf Balls,2.5,0.7071067811865476,2
+Southern Africa,Standard Class,Golf Gloves,4.0,2.0,3
+Southern Africa,Standard Class,Golf Shoes,4.0,,1
+Southern Africa,Standard Class,Indoor/Outdoor Games,97.04347826086956,132.00154209184265,23
+Southern Africa,Standard Class,Men's Footwear,27.304347826086957,63.747721376346696,46
+Southern Africa,Standard Class,Shop By Sport,3.857142857142857,1.8752289237539816,14
+Southern Africa,Standard Class,Tennis & Racquet,233.0,,1
+Southern Africa,Standard Class,Trade-In,2.6666666666666665,2.3094010767585034,3
+Southern Africa,Standard Class,Water Sports,25.875,89.64364636343913,16
+Southern Africa,Standard Class,Women's Apparel,45.78260869565217,99.8207286369552,23
+Southern Europe,First Class,Accessories,2.0,0.0,2
+Southern Europe,First Class,Baby,0.5,0.7071067811865476,2
+Southern Europe,First Class,Baseball & Softball,2.0,0.0,2
+Southern Europe,First Class,Boxing & MMA,2.0,0.0,2
+Southern Europe,First Class,CDs,0.0,,1
+Southern Europe,First Class,Cameras,3.5714285714285716,1.8126539343499313,7
+Southern Europe,First Class,Camping & Hiking,18.964285714285715,61.447648385137505,28
+Southern Europe,First Class,Cardio Equipment,41.4375,67.26164707072424,16
+Southern Europe,First Class,Cleats,13.606060606060606,28.39227381033812,33
+Southern Europe,First Class,Consumer Electronics,7.0,,1
+Southern Europe,First Class,DVDs,32.0,,1
+Southern Europe,First Class,Electronics,2.0,0.0,3
+Southern Europe,First Class,Fishing,1.9642857142857142,0.4287918304520667,28
+Southern Europe,First Class,Girls' Apparel,1.0,,1
+Southern Europe,First Class,Golf Balls,44.666666666666664,73.90083445627211,3
+Southern Europe,First Class,Golf Shoes,146.0,,1
+Southern Europe,First Class,Hunting & Shooting,2.0,0.0,2
+Southern Europe,First Class,Indoor/Outdoor Games,26.375,50.14736348519361,32
+Southern Europe,First Class,Men's Footwear,3.46875,6.268118897733915,32
+Southern Europe,First Class,Shop By Sport,7.533333333333333,15.963649183006224,15
+Southern Europe,First Class,Water Sports,2.761904761904762,2.1657507221460626,21
+Southern Europe,First Class,Women's Apparel,20.933333333333334,42.41090729365813,30
+Southern Europe,Same Day,Accessories,82.0,,1
+Southern Europe,Same Day,Baby,0.0,,1
+Southern Europe,Same Day,Baseball & Softball,0.0,,1
+Southern Europe,Same Day,Cameras,2.0,,1
+Southern Europe,Same Day,Camping & Hiking,11.846153846153847,14.809040897630483,13
+Southern Europe,Same Day,Cardio Equipment,16.4,26.808787945580665,10
+Southern Europe,Same Day,Cleats,12.6,41.029386131354556,20
+Southern Europe,Same Day,Consumer Electronics,19.0,22.627416997969522,2
+Southern Europe,Same Day,DVDs,0.0,,1
+Southern Europe,Same Day,Fishing,14.727272727272727,45.88265665606321,11
+Southern Europe,Same Day,Golf Apparel,3.5,0.7071067811865476,2
+Southern Europe,Same Day,Golf Gloves,6.0,,1
+Southern Europe,Same Day,Indoor/Outdoor Games,9.625,18.194779471046083,16
+Southern Europe,Same Day,Men's Footwear,2.142857142857143,4.234214381508266,21
+Southern Europe,Same Day,Shop By Sport,1.2857142857142858,1.6035674514745462,7
+Southern Europe,Same Day,Tennis & Racquet,0.0,,1
+Southern Europe,Same Day,Water Sports,0.6666666666666666,1.2309149097933274,12
+Southern Europe,Same Day,Women's Apparel,1.6,1.5055453054181622,10
+Southern Europe,Second Class,Accessories,4.0,2.309401076758503,4
+Southern Europe,Second Class,Baby,15.0,,1
+Southern Europe,Second Class,Books,4.0,2.82842712474619,5
+Southern Europe,Second Class,Boxing & MMA,4.0,,1
+Southern Europe,Second Class,CDs,3.25,0.9574271077563381,4
+Southern Europe,Second Class,Cameras,3.25,1.8322507626258087,8
+Southern Europe,Second Class,Camping & Hiking,7.76,14.457639272486134,25
+Southern Europe,Second Class,Cardio Equipment,36.375,56.50117992868231,16
+Southern Europe,Second Class,Cleats,16.054054054054053,30.371721081319073,37
+Southern Europe,Second Class,Consumer Electronics,12.666666666666666,17.672954855748753,3
+Southern Europe,Second Class,Crafts,13.666666666666666,18.475208614068027,3
+Southern Europe,Second Class,DVDs,20.0,17.339742404853272,4
+Southern Europe,Second Class,Electronics,4.5,0.7071067811865476,2
+Southern Europe,Second Class,Fishing,6.392857142857143,9.41763234267504,28
+Southern Europe,Second Class,Girls' Apparel,3.3333333333333335,1.1547005383792515,3
+Southern Europe,Second Class,Golf Balls,6.0,,1
+Southern Europe,Second Class,Golf Gloves,4.0,,1
+Southern Europe,Second Class,Golf Shoes,6.0,,1
+Southern Europe,Second Class,Hunting & Shooting,121.0,,1
+Southern Europe,Second Class,Indoor/Outdoor Games,19.185185185185187,43.13399251798182,27
+Southern Europe,Second Class,Men's Footwear,6.580645161290323,11.143829962654634,31
+Southern Europe,Second Class,Men's Golf Clubs,6.0,,1
+Southern Europe,Second Class,Shop By Sport,16.05263157894737,35.34193870713585,19
+Southern Europe,Second Class,Soccer,2.0,,1
+Southern Europe,Second Class,Tennis & Racquet,2.0,,1
+Southern Europe,Second Class,Trade-In,6.0,,1
+Southern Europe,Second Class,Water Sports,3.375,1.4688800821211285,24
+Southern Europe,Second Class,Women's Apparel,9.975609756097562,22.885025458668437,41
+Southern Europe,Second Class,Women's Golf Clubs,4.0,,1
+Southern Europe,Standard Class,Accessories,31.428571428571427,74.34795927003677,7
+Southern Europe,Standard Class,Baby,12.375,17.154237294116495,8
+Southern Europe,Standard Class,Baseball & Softball,3.5,1.9148542155126762,4
+Southern Europe,Standard Class,Basketball,2.0,,1
+Southern Europe,Standard Class,Books,7.0,12.750350135248388,8
+Southern Europe,Standard Class,CDs,6.833333333333333,11.215519550510301,12
+Southern Europe,Standard Class,Cameras,5.894736842105263,7.816611491220371,19
+Southern Europe,Standard Class,Camping & Hiking,12.722222222222221,32.64931991277649,72
+Southern Europe,Standard Class,Cardio Equipment,44.2,61.21424404065926,50
+Southern Europe,Standard Class,Cleats,19.271186440677965,45.88422089112394,118
+Southern Europe,Standard Class,Consumer Electronics,8.0,12.96148139681572,6
+Southern Europe,Standard Class,Crafts,3.6153846153846154,8.949287323007548,13
+Southern Europe,Standard Class,DVDs,0.3333333333333333,0.5773502691896258,3
+Southern Europe,Standard Class,Electronics,3.5,1.51657508881031,6
+Southern Europe,Standard Class,Fishing,11.904109589041095,31.70618778705228,73
+Southern Europe,Standard Class,Fitness Accessories,6.0,,1
+Southern Europe,Standard Class,Girls' Apparel,3.0,1.4142135623730951,2
+Southern Europe,Standard Class,Golf Apparel,3.0,1.4142135623730951,2
+Southern Europe,Standard Class,Golf Bags & Carts,4.0,,1
+Southern Europe,Standard Class,Golf Balls,43.833333333333336,67.07731857093474,6
+Southern Europe,Standard Class,Golf Gloves,33.5,44.54772721475249,2
+Southern Europe,Standard Class,Golf Shoes,5.0,1.0,3
+Southern Europe,Standard Class,Hockey,4.0,2.8284271247461903,2
+Southern Europe,Standard Class,Indoor/Outdoor Games,26.694736842105264,50.17396834678371,95
+Southern Europe,Standard Class,Kids' Golf Clubs,2.7142857142857144,2.3603873774083297,7
+Southern Europe,Standard Class,Lacrosse,5.333333333333333,3.777124126457412,6
+Southern Europe,Standard Class,Men's Footwear,14.762376237623762,34.119246332488494,101
+Southern Europe,Standard Class,Men's Golf Clubs,3.3333333333333335,1.632993161855452,6
+Southern Europe,Standard Class,Shop By Sport,10.189655172413794,29.121919697996418,58
+Southern Europe,Standard Class,Soccer,52.0,67.88225099390856,2
+Southern Europe,Standard Class,Strength Training,2.0,,1
+Southern Europe,Standard Class,Trade-In,4.0,1.118033988749895,9
+Southern Europe,Standard Class,Water Sports,4.606060606060606,7.035905251207033,66
+Southern Europe,Standard Class,Women's Apparel,16.15625,47.26461414208307,96
+Southern Europe,Standard Class,Women's Golf Clubs,3.0,2.581988897471611,4
+US Center,First Class,Accessories,2.0,,1
+US Center,First Class,Baseball & Softball,3.0,,1
+US Center,First Class,Camping & Hiking,2.3125,0.873212459828649,16
+US Center,First Class,Cardio Equipment,33.53333333333333,74.61220377646644,15
+US Center,First Class,Cleats,23.82758620689655,59.43247607009706,29
+US Center,First Class,Electronics,2.0,,1
+US Center,First Class,Fishing,2.25,1.1832159566199232,16
+US Center,First Class,Fitness Accessories,2.0,,1
+US Center,First Class,Girls' Apparel,2.0,,1
+US Center,First Class,Golf Balls,3.0,1.7320508075688772,3
+US Center,First Class,Golf Gloves,2.0,,1
+US Center,First Class,Hockey,2.0,,1
+US Center,First Class,Hunting & Shooting,2.0,,1
+US Center,First Class,Indoor/Outdoor Games,15.076923076923077,33.159869165557986,13
+US Center,First Class,Lacrosse,2.0,,1
+US Center,First Class,Men's Footwear,13.25925925925926,26.5251587287248,27
+US Center,First Class,Shop By Sport,2.769230769230769,1.3008872711759818,13
+US Center,First Class,Water Sports,3.0,2.486326242032244,12
+US Center,First Class,Women's Apparel,18.043478260869566,31.85403964801377,23
+US Center,Same Day,Baseball & Softball,0.0,,1
+US Center,Same Day,Camping & Hiking,9.166666666666666,11.338724208069737,6
+US Center,Same Day,Cardio Equipment,59.666666666666664,52.48110771188683,6
+US Center,Same Day,Cleats,27.0,53.52144854677846,12
+US Center,Same Day,Electronics,22.0,28.284271247461902,2
+US Center,Same Day,Fishing,1.0,0.816496580927726,4
+US Center,Same Day,Girls' Apparel,2.5,2.1213203435596424,2
+US Center,Same Day,Golf Balls,33.0,26.870057685088806,2
+US Center,Same Day,Golf Shoes,1.0,,1
+US Center,Same Day,Indoor/Outdoor Games,7.888888888888889,18.442101591497405,9
+US Center,Same Day,Lacrosse,4.0,,1
+US Center,Same Day,Men's Footwear,1.5714285714285714,1.5118578920369088,7
+US Center,Same Day,Shop By Sport,2.3333333333333335,2.516611478423583,3
+US Center,Same Day,Water Sports,2.375,2.559994419636775,8
+US Center,Same Day,Women's Apparel,11.8,24.72245942457991,5
+US Center,Second Class,Accessories,92.14285714285714,116.92508794299106,7
+US Center,Second Class,Camping & Hiking,3.388888888888889,1.6499158227686108,18
+US Center,Second Class,Cardio Equipment,18.615384615384617,45.07131101846358,13
+US Center,Second Class,Cleats,18.09090909090909,29.489310780639222,44
+US Center,Second Class,Electronics,3.6666666666666665,1.505545305418162,6
+US Center,Second Class,Fishing,3.35,1.6311119875071343,20
+US Center,Second Class,Fitness Accessories,6.0,,1
+US Center,Second Class,Girls' Apparel,4.0,1.4142135623730951,2
+US Center,Second Class,Golf Balls,2.0,0.0,2
+US Center,Second Class,Golf Gloves,2.0,,1
+US Center,Second Class,Golf Shoes,2.0,,1
+US Center,Second Class,Indoor/Outdoor Games,20.142857142857142,39.97534954729691,21
+US Center,Second Class,Men's Footwear,12.214285714285714,28.081042956859225,28
+US Center,Second Class,Shop By Sport,3.95,1.79105966869954,20
+US Center,Second Class,Tennis & Racquet,4.0,2.8284271247461903,2
+US Center,Second Class,Trade-In,6.0,,1
+US Center,Second Class,Water Sports,3.3043478260869565,1.5206094056091055,23
+US Center,Second Class,Women's Apparel,14.8,40.766280860196375,30
+US Center,Standard Class,Accessories,24.5,59.48529229986182,10
+US Center,Standard Class,Baseball & Softball,2.6666666666666665,1.0327955589886446,6
+US Center,Standard Class,Camping & Hiking,16.523809523809526,45.67341015174654,42
+US Center,Standard Class,Cardio Equipment,26.073170731707318,47.586442525105,41
+US Center,Standard Class,Cleats,28.802197802197803,60.14763683918277,91
+US Center,Standard Class,Electronics,3.4,1.7237832147426693,15
+US Center,Standard Class,Fishing,4.294117647058823,4.627284809246385,51
+US Center,Standard Class,Fitness Accessories,4.0,,1
+US Center,Standard Class,Girls' Apparel,3.0,2.0,4
+US Center,Standard Class,Golf Apparel,4.0,0.0,2
+US Center,Standard Class,Golf Balls,64.25,74.77243253142609,4
+US Center,Standard Class,Golf Gloves,5.0,1.7320508075688772,3
+US Center,Standard Class,Golf Shoes,4.0,,1
+US Center,Standard Class,Hockey,2.8333333333333335,2.0412414523193148,6
+US Center,Standard Class,Hunting & Shooting,6.0,,1
+US Center,Standard Class,Indoor/Outdoor Games,29.72,59.23648437475911,75
+US Center,Standard Class,Lacrosse,3.0,1.4142135623730951,2
+US Center,Standard Class,Men's Footwear,24.905882352941177,58.56937756879033,85
+US Center,Standard Class,Shop By Sport,7.828571428571428,26.68937408549759,35
+US Center,Standard Class,Tennis & Racquet,41.5,53.033008588991066,2
+US Center,Standard Class,Trade-In,3.8333333333333335,1.8348478592697182,6
+US Center,Standard Class,Water Sports,5.38,12.86807471764038,50
+US Center,Standard Class,Women's Apparel,19.462365591397848,48.16108819454022,93
+West Africa,First Class,Boxing & MMA,2.0,,1
+West Africa,First Class,Camping & Hiking,29.833333333333332,79.91112487500023,12
+West Africa,First Class,Cardio Equipment,141.0,134.90922874288475,9
+West Africa,First Class,Cleats,41.09090909090909,103.90808875679944,11
+West Africa,First Class,Fishing,102.0,172.33301096036902,4
+West Africa,First Class,Girls' Apparel,3.5,2.1213203435596424,2
+West Africa,First Class,Golf Gloves,2.0,,1
+West Africa,First Class,Indoor/Outdoor Games,168.25,189.84972127097438,4
+West Africa,First Class,Men's Footwear,3.8181818181818183,4.8128615566663004,11
+West Africa,First Class,Shop By Sport,96.0,170.9346853820683,4
+West Africa,First Class,Water Sports,2.0,0.0,6
+West Africa,First Class,Women's Apparel,57.4,83.6436887437819,10
+West Africa,Same Day,Boxing & MMA,0.0,,1
+West Africa,Same Day,Camping & Hiking,41.25,69.80627956471156,4
+West Africa,Same Day,Cardio Equipment,186.44444444444446,96.99498841578247,9
+West Africa,Same Day,Cleats,1.0,1.7320508075688772,3
+West Africa,Same Day,Electronics,2.0,1.0,3
+West Africa,Same Day,Fishing,1.375,1.5979898086569353,8
+West Africa,Same Day,Girls' Apparel,2.0,,1
+West Africa,Same Day,Indoor/Outdoor Games,1.25,1.4880476182856899,8
+West Africa,Same Day,Men's Footwear,100.5,142.12846301849606,2
+West Africa,Same Day,Shop By Sport,0.0,0.0,3
+West Africa,Same Day,Tennis & Racquet,3.0,,1
+West Africa,Same Day,Water Sports,1.4,2.6076809620810595,5
+West Africa,Same Day,Women's Apparel,106.88888888888889,128.47221921921917,9
+West Africa,Second Class,Accessories,57.5,78.48885271170677,2
+West Africa,Second Class,Camping & Hiking,3.5555555555555554,1.666666666666667,9
+West Africa,Second Class,Cardio Equipment,91.0,124.11285187280163,6
+West Africa,Second Class,Cleats,13.894736842105264,32.15568851841875,19
+West Africa,Second Class,Electronics,2.0,,1
+West Africa,Second Class,Fishing,43.90909090909091,107.66843041992816,11
+West Africa,Second Class,Fitness Accessories,2.0,,1
+West Africa,Second Class,Girls' Apparel,94.0,178.67661663836523,4
+West Africa,Second Class,Golf Apparel,6.0,,1
+West Africa,Second Class,Golf Balls,123.0,131.14877048604,3
+West Africa,Second Class,Golf Gloves,2.0,0.0,2
+West Africa,Second Class,Indoor/Outdoor Games,50.63157894736842,109.26990564973393,19
+West Africa,Second Class,Men's Footwear,25.066666666666666,56.827391115133736,15
+West Africa,Second Class,Shop By Sport,4.75,4.891683905218266,8
+West Africa,Second Class,Water Sports,67.05882352941177,140.77662740501142,17
+West Africa,Second Class,Women's Apparel,73.06666666666666,129.6679642486183,15
+West Africa,Standard Class,Accessories,32.4,64.62816723379984,5
+West Africa,Standard Class,Baseball & Softball,2.0,,1
+West Africa,Standard Class,Boxing & MMA,4.0,,1
+West Africa,Standard Class,Camping & Hiking,33.891891891891895,80.09223286789903,37
+West Africa,Standard Class,Cardio Equipment,69.63333333333334,103.3792760307581,30
+West Africa,Standard Class,Cleats,41.48148148148148,73.92978329564586,54
+West Africa,Standard Class,Electronics,22.0,53.98147830506311,14
+West Africa,Standard Class,Fishing,34.853658536585364,81.67330070947597,41
+West Africa,Standard Class,Fitness Accessories,6.5,6.363961030678928,2
+West Africa,Standard Class,Girls' Apparel,6.0,,1
+West Africa,Standard Class,Golf Apparel,2.0,,1
+West Africa,Standard Class,Golf Balls,103.33333333333333,170.3212650649746,3
+West Africa,Standard Class,Golf Gloves,3.3333333333333335,1.1547005383792517,3
+West Africa,Standard Class,Golf Shoes,41.0,,1
+West Africa,Standard Class,Hockey,6.0,,1
+West Africa,Standard Class,Indoor/Outdoor Games,24.73913043478261,67.64660943547683,46
+West Africa,Standard Class,Lacrosse,2.0,,1
+West Africa,Standard Class,Men's Footwear,11.9,41.72614801981401,50
+West Africa,Standard Class,Shop By Sport,19.8,52.70829254077676,40
+West Africa,Standard Class,Tennis & Racquet,140.0,193.7498387096103,3
+West Africa,Standard Class,Trade-In,4.5,2.1213203435596424,2
+West Africa,Standard Class,Water Sports,39.8235294117647,107.09541649993298,51
+West Africa,Standard Class,Women's Apparel,48.905660377358494,97.19236756812657,53
+West Asia,First Class,Accessories,143.75,144.73049667111167,4
+West Asia,First Class,Boxing & MMA,2.0,0.0,2
+West Asia,First Class,Camping & Hiking,28.928571428571427,68.45376236860602,14
+West Asia,First Class,Cardio Equipment,56.1875,112.72693777442905,16
+West Asia,First Class,Cleats,39.13333333333333,81.23857302492725,30
+West Asia,First Class,Electronics,2.0,0.0,3
+West Asia,First Class,Fishing,2.4545454545454546,2.1320071635561044,22
+West Asia,First Class,Fitness Accessories,2.0,,1
+West Asia,First Class,Girls' Apparel,6.0,,1
+West Asia,First Class,Golf Apparel,5.0,,1
+West Asia,First Class,Golf Balls,127.5,177.48380207782344,2
+West Asia,First Class,Hunting & Shooting,2.0,0.0,2
+West Asia,First Class,Indoor/Outdoor Games,59.22222222222222,94.4024897201312,18
+West Asia,First Class,Men's Footwear,2.9615384615384617,3.5494311570252406,26
+West Asia,First Class,Shop By Sport,48.75,127.38776572788635,8
+West Asia,First Class,Trade-In,2.0,0.0,2
+West Asia,First Class,Water Sports,18.90909090909091,77.09110818401147,22
+West Asia,First Class,Women's Apparel,39.63333333333333,72.8671362153741,30
+West Asia,Same Day,Camping & Hiking,57.142857142857146,97.59342288533685,7
+West Asia,Same Day,Cardio Equipment,46.0,70.36334272900912,3
+West Asia,Same Day,Cleats,46.375,115.30572715301575,8
+West Asia,Same Day,Electronics,1.0,1.4142135623730951,2
+West Asia,Same Day,Fishing,0.5,0.5477225575051661,6
+West Asia,Same Day,Golf Balls,1.0,,1
+West Asia,Same Day,Golf Gloves,1.0,,1
+West Asia,Same Day,Hockey,6.0,,1
+West Asia,Same Day,Indoor/Outdoor Games,1.5,2.3804761428476167,4
+West Asia,Same Day,Men's Footwear,2.5833333333333335,7.7042884555331,12
+West Asia,Same Day,Shop By Sport,9.0,8.888194417315589,3
+West Asia,Same Day,Trade-In,5.0,,1
+West Asia,Same Day,Water Sports,0.75,0.5,4
+West Asia,Same Day,Women's Apparel,54.0,84.18075789632688,6
+West Asia,Second Class,Accessories,2.0,,1
+West Asia,Second Class,Boxing & MMA,6.0,,1
+West Asia,Second Class,Camping & Hiking,24.708333333333332,42.14414103037819,24
+West Asia,Second Class,Cardio Equipment,35.916666666666664,61.30765684544458,12
+West Asia,Second Class,Cleats,33.36,55.70897593745554,25
+West Asia,Second Class,Electronics,31.7,87.24938713570175,10
+West Asia,Second Class,Fishing,3.625,1.668332500832293,16
+West Asia,Second Class,Girls' Apparel,2.0,0.0,3
+West Asia,Second Class,Golf Apparel,16.0,16.97056274847714,2
+West Asia,Second Class,Golf Balls,5.0,1.4142135623730951,2
+West Asia,Second Class,Golf Gloves,4.0,,1
+West Asia,Second Class,Golf Shoes,2.0,,1
+West Asia,Second Class,Hockey,2.0,,1
+West Asia,Second Class,Indoor/Outdoor Games,27.94736842105263,57.96787777555057,19
+West Asia,Second Class,Men's Footwear,13.62962962962963,29.623468020302038,27
+West Asia,Second Class,Shop By Sport,23.294117647058822,79.0535931393083,17
+West Asia,Second Class,Trade-In,2.5,2.1213203435596424,2
+West Asia,Second Class,Water Sports,4.304347826086956,3.5088820106163268,23
+West Asia,Second Class,Women's Apparel,13.571428571428571,34.74704509533354,21
+West Asia,Standard Class,Accessories,43.0,104.31535029751042,14
+West Asia,Standard Class,Baseball & Softball,43.666666666666664,68.70468203356546,3
+West Asia,Standard Class,Camping & Hiking,24.6046511627907,55.57968947928289,43
+West Asia,Standard Class,Cardio Equipment,68.38636363636364,115.05917909252652,44
+West Asia,Standard Class,Cleats,37.59756097560975,80.58702216936587,82
+West Asia,Standard Class,Electronics,4.583333333333333,1.2401124093721454,12
+West Asia,Standard Class,Fishing,47.74626865671642,104.7904609473739,67
+West Asia,Standard Class,Fitness Accessories,5.5,0.7071067811865476,2
+West Asia,Standard Class,Girls' Apparel,61.0,115.33718683350425,4
+West Asia,Standard Class,Golf Apparel,6.0,0.0,2
+West Asia,Standard Class,Golf Balls,19.5,38.49025850783546,6
+West Asia,Standard Class,Golf Gloves,4.5,1.9148542155126762,4
+West Asia,Standard Class,Golf Shoes,3.6666666666666665,1.5275252316519465,3
+West Asia,Standard Class,Hockey,2.0,0.0,3
+West Asia,Standard Class,Hunting & Shooting,4.0,,1
+West Asia,Standard Class,Indoor/Outdoor Games,33.18181818181818,66.56377141009712,66
+West Asia,Standard Class,Men's Footwear,35.73684210526316,90.42173182187064,95
+West Asia,Standard Class,Shop By Sport,12.45945945945946,57.559917860818246,37
+West Asia,Standard Class,Tennis & Racquet,3.6666666666666665,2.886751345948129,3
+West Asia,Standard Class,Trade-In,49.0,126.48207100500167,8
+West Asia,Standard Class,Water Sports,8.91304347826087,42.56439382257635,69
+West Asia,Standard Class,Women's Apparel,26.8,70.41259956297019,80
+West of USA,First Class,Accessories,119.0,165.46298679765212,2
+West of USA,First Class,Baseball & Softball,3.5,2.1213203435596424,2
+West of USA,First Class,Camping & Hiking,2.0526315789473686,0.7050361858740393,19
+West of USA,First Class,Cardio Equipment,33.2,77.27842878549974,10
+West of USA,First Class,Cleats,8.928571428571429,19.237171909321365,28
+West of USA,First Class,Electronics,9.666666666666666,18.790068298616337,6
+West of USA,First Class,Fishing,2.388888888888889,1.1447521637192346,18
+West of USA,First Class,Girls' Apparel,6.0,,1
+West of USA,First Class,Golf Gloves,2.3333333333333335,0.5773502691896258,3
+West of USA,First Class,Golf Shoes,5.0,,1
+West of USA,First Class,Hunting & Shooting,5.0,,1
+West of USA,First Class,Indoor/Outdoor Games,27.666666666666668,57.90969982078419,21
+West of USA,First Class,Men's Footwear,4.739130434782608,9.973680779952568,23
+West of USA,First Class,Shop By Sport,3.0,1.7320508075688772,7
+West of USA,First Class,Trade-In,2.0,0.0,2
+West of USA,First Class,Water Sports,3.5185185185185186,4.846651265567649,27
+West of USA,First Class,Women's Apparel,14.357142857142858,30.81752061278741,28
+West of USA,Same Day,Camping & Hiking,27.11111111111111,52.36755781121659,9
+West of USA,Same Day,Cardio Equipment,74.2,71.80668492556943,5
+West of USA,Same Day,Cleats,24.625,66.04314066253534,8
+West of USA,Same Day,Electronics,2.5,1.9148542155126764,4
+West of USA,Same Day,Fishing,4.181818181818182,7.7436190740271025,11
+West of USA,Same Day,Girls' Apparel,4.0,,1
+West of USA,Same Day,Golf Gloves,0.0,,1
+West of USA,Same Day,Golf Shoes,19.0,,1
+West of USA,Same Day,Hockey,5.0,,1
+West of USA,Same Day,Indoor/Outdoor Games,2.0,2.5298221281347035,6
+West of USA,Same Day,Lacrosse,2.0,,1
+West of USA,Same Day,Men's Footwear,1.2,0.9411239481143201,15
+West of USA,Same Day,Shop By Sport,3.5,1.760681686165901,6
+West of USA,Same Day,Trade-In,5.0,,1
+West of USA,Same Day,Water Sports,0.7777777777777778,0.8333333333333334,9
+West of USA,Same Day,Women's Apparel,19.0,34.95075901258163,10
+West of USA,Second Class,Accessories,4.5,1.9148542155126762,4
+West of USA,Second Class,Boxing & MMA,5.0,,1
+West of USA,Second Class,Camping & Hiking,12.714285714285714,22.13048218539853,14
+West of USA,Second Class,Cardio Equipment,56.2,82.56270344410967,15
+West of USA,Second Class,Cleats,23.333333333333332,38.16310737122492,42
+West of USA,Second Class,Electronics,4.0,,1
+West of USA,Second Class,Fishing,3.4,1.5811388300841893,25
+West of USA,Second Class,Fitness Accessories,6.0,,1
+West of USA,Second Class,Girls' Apparel,1.5,0.7071067811865476,2
+West of USA,Second Class,Golf Apparel,3.0,,1
+West of USA,Second Class,Golf Gloves,2.0,1.632993161855452,4
+West of USA,Second Class,Golf Shoes,4.0,,1
+West of USA,Second Class,Hunting & Shooting,4.0,,1
+West of USA,Second Class,Indoor/Outdoor Games,37.4,71.28940531625177,30
+West of USA,Second Class,Men's Footwear,34.03225806451613,53.95151148390423,31
+West of USA,Second Class,Shop By Sport,4.5,5.873670062235367,18
+West of USA,Second Class,Trade-In,2.0,0.0,2
+West of USA,Second Class,Water Sports,18.12,71.24097603673512,25
+West of USA,Second Class,Women's Apparel,33.65384615384615,68.06052736069113,26
+West of USA,Standard Class,Accessories,56.42857142857143,74.77629641466943,14
+West of USA,Standard Class,Baseball & Softball,4.0,0.0,2
+West of USA,Standard Class,Boxing & MMA,2.0,,1
+West of USA,Standard Class,Camping & Hiking,15.585365853658537,45.61755976054039,82
+West of USA,Standard Class,Cardio Equipment,36.274193548387096,58.23501548061524,62
+West of USA,Standard Class,Cleats,25.728,45.651975189576156,125
+West of USA,Standard Class,Electronics,27.933333333333334,91.59496763053141,15
+West of USA,Standard Class,Fishing,8.202898550724637,17.542033310061903,69
+West of USA,Standard Class,Fitness Accessories,2.5,0.7071067811865476,2
+West of USA,Standard Class,Girls' Apparel,3.8333333333333335,1.3291601358251257,6
+West of USA,Standard Class,Golf Apparel,6.0,,1
+West of USA,Standard Class,Golf Balls,27.0,38.750483867946734,6
+West of USA,Standard Class,Golf Gloves,3.3333333333333335,1.0327955589886444,6
+West of USA,Standard Class,Golf Shoes,84.0,,1
+West of USA,Standard Class,Hockey,2.0,,1
+West of USA,Standard Class,Hunting & Shooting,4.0,2.8284271247461903,2
+West of USA,Standard Class,Indoor/Outdoor Games,39.505050505050505,82.41995173269561,99
+West of USA,Standard Class,Lacrosse,3.0,,1
+West of USA,Standard Class,Men's Footwear,14.459770114942529,36.10121578758653,87
+West of USA,Standard Class,Shop By Sport,11.476190476190476,37.770318773549114,42
+West of USA,Standard Class,Tennis & Racquet,3.0,1.4142135623730951,2
+West of USA,Standard Class,Trade-In,2.0,0.0,3
+West of USA,Standard Class,Water Sports,6.0,11.708582710597772,67
+West of USA,Standard Class,Women's Apparel,22.903846153846153,54.788121317404794,104
+Western Europe,First Class,Accessories,21.142857142857142,32.697750031811935,7
+Western Europe,First Class,Baby,2.0,,1
+Western Europe,First Class,Baseball & Softball,2.0,,1
+Western Europe,First Class,Basketball,1.0,,1
+Western Europe,First Class,Books,1.75,0.5,4
+Western Europe,First Class,Boxing & MMA,2.0,,1
+Western Europe,First Class,CDs,3.6,4.774934554525329,5
+Western Europe,First Class,Cameras,6.884615384615385,7.106768171690549,26
+Western Europe,First Class,Camping & Hiking,10.520833333333334,42.53558689476694,48
+Western Europe,First Class,Cardio Equipment,41.265306122448976,64.90498681091593,49
+Western Europe,First Class,Children's Clothing,2.0,0.0,2
+Western Europe,First Class,Cleats,26.650485436893202,57.90352164065233,103
+Western Europe,First Class,Consumer Electronics,10.333333333333334,7.234178138070234,3
+Western Europe,First Class,Crafts,23.0,35.19334352646007,8
+Western Europe,First Class,DVDs,3.4,1.3416407864998738,5
+Western Europe,First Class,Electronics,26.8,40.35343851519967,10
+Western Europe,First Class,Fishing,2.1166666666666667,0.6661721329614916,60
+Western Europe,First Class,Girls' Apparel,2.6,1.3416407864998738,5
+Western Europe,First Class,Golf Bags & Carts,14.0,,1
+Western Europe,First Class,Golf Balls,31.333333333333332,48.232077845903895,3
+Western Europe,First Class,Golf Gloves,2.4,0.8944271909999159,5
+Western Europe,First Class,Golf Shoes,26.166666666666668,58.7074668731897,6
+Western Europe,First Class,Hockey,42.0,69.2820323027551,3
+Western Europe,First Class,Hunting & Shooting,2.0,0.0,2
+Western Europe,First Class,Indoor/Outdoor Games,18.414285714285715,41.49122234992719,70
+Western Europe,First Class,Kids' Golf Clubs,2.75,1.5,4
+Western Europe,First Class,Lacrosse,2.0,,1
+Western Europe,First Class,Men's Footwear,7.8,28.850517862811078,85
+Western Europe,First Class,Men's Golf Clubs,2.0,0.0,4
+Western Europe,First Class,Shop By Sport,8.439024390243903,18.910379134866393,41
+Western Europe,First Class,Soccer,2.0,,1
+Western Europe,First Class,Tennis & Racquet,23.0,,1
+Western Europe,First Class,Trade-In,2.0,2.8284271247461903,2
+Western Europe,First Class,Water Sports,2.5762711864406778,2.99541828194505,59
+Western Europe,First Class,Women's Apparel,33.25974025974026,65.60636253592182,77
+Western Europe,First Class,Women's Golf Clubs,0.0,,1
+Western Europe,Same Day,As Seen on  TV!,0.0,,1
+Western Europe,Same Day,Baby,1.6666666666666667,0.5773502691896257,3
+Western Europe,Same Day,Baseball & Softball,0.5,0.7071067811865476,2
+Western Europe,Same Day,Books,28.75,11.324751652906125,4
+Western Europe,Same Day,Boxing & MMA,2.0,,1
+Western Europe,Same Day,Cameras,9.857142857142858,11.216484467493538,7
+Western Europe,Same Day,Camping & Hiking,6.913043478260869,11.2650426439828,23
+Western Europe,Same Day,Cardio Equipment,43.875,64.88130187760827,16
+Western Europe,Same Day,Cleats,19.325581395348838,52.10918981661879,43
+Western Europe,Same Day,Consumer Electronics,3.5,7.0,4
+Western Europe,Same Day,Crafts,0.3333333333333333,0.5773502691896258,3
+Western Europe,Same Day,Electronics,1.0,1.4142135623730951,2
+Western Europe,Same Day,Fishing,7.758620689655173,24.227574568209008,29
+Western Europe,Same Day,Girls' Apparel,1.0,,1
+Western Europe,Same Day,Golf Shoes,1.0,,1
+Western Europe,Same Day,Hockey,4.0,1.4142135623730951,2
+Western Europe,Same Day,Hunting & Shooting,2.0,1.4142135623730951,2
+Western Europe,Same Day,Indoor/Outdoor Games,19.756756756756758,50.39588023583621,37
+Western Europe,Same Day,Kids' Golf Clubs,21.5,26.16295090390226,2
+Western Europe,Same Day,Men's Footwear,9.69047619047619,33.10846041402747,42
+Western Europe,Same Day,Men's Golf Clubs,0.5,0.7071067811865476,2
+Western Europe,Same Day,Shop By Sport,19.31578947368421,50.69412921475331,19
+Western Europe,Same Day,Strength Training,0.0,,1
+Western Europe,Same Day,Trade-In,3.6666666666666665,3.2145502536643185,3
+Western Europe,Same Day,Water Sports,0.5,0.7071067811865475,26
+Western Europe,Same Day,Women's Apparel,18.285714285714285,46.073197151905134,35
+Western Europe,Second Class,Accessories,32.75,34.48067091381296,4
+Western Europe,Second Class,As Seen on  TV!,4.0,,1
+Western Europe,Second Class,Baby,4.0,,1
+Western Europe,Second Class,Baseball & Softball,6.0,,1
+Western Europe,Second Class,Books,2.6666666666666665,1.1547005383792515,3
+Western Europe,Second Class,Boxing & MMA,2.6666666666666665,1.1547005383792515,3
+Western Europe,Second Class,CDs,2.0,0.0,2
+Western Europe,Second Class,Cameras,11.117647058823529,23.845550824370715,17
+Western Europe,Second Class,Camping & Hiking,17.033333333333335,44.015007712765446,60
+Western Europe,Second Class,Cardio Equipment,44.888888888888886,68.12551704014788,72
+Western Europe,Second Class,Children's Clothing,17.2,16.976454282328802,5
+Western Europe,Second Class,Cleats,30.054545454545455,68.57044009176731,110
+Western Europe,Second Class,Consumer Electronics,18.142857142857142,17.199114041412827,7
+Western Europe,Second Class,Crafts,12.833333333333334,10.911489635270065,12
+Western Europe,Second Class,DVDs,4.5,5.205766033928148,6
+Western Europe,Second Class,Electronics,3.5384615384615383,1.5063966175050878,13
+Western Europe,Second Class,Fishing,7.559523809523809,19.567831476333122,84
+Western Europe,Second Class,Girls' Apparel,62.5,146.73479478296892,6
+Western Europe,Second Class,Golf Apparel,2.0,0.0,3
+Western Europe,Second Class,Golf Bags & Carts,4.0,2.8284271247461903,2
+Western Europe,Second Class,Golf Balls,55.0,49.48737212663449,3
+Western Europe,Second Class,Golf Gloves,3.3333333333333335,1.1547005383792515,3
+Western Europe,Second Class,Golf Shoes,10.0,5.656854249492381,2
+Western Europe,Second Class,Hockey,2.0,,1
+Western Europe,Second Class,Hunting & Shooting,4.0,2.0,3
+Western Europe,Second Class,Indoor/Outdoor Games,32.2906976744186,65.65755478757943,86
+Western Europe,Second Class,Kids' Golf Clubs,3.3333333333333335,0.816496580927726,6
+Western Europe,Second Class,Men's Footwear,9.010309278350515,30.355701978568767,97
+Western Europe,Second Class,Men's Golf Clubs,3.0,1.7320508075688772,5
+Western Europe,Second Class,Shop By Sport,5.196078431372549,9.020021303396433,51
+Western Europe,Second Class,Soccer,4.0,0.0,2
+Western Europe,Second Class,Strength Training,30.5,40.30508652763321,2
+Western Europe,Second Class,Trade-In,4.166666666666667,1.3291601358251257,6
+Western Europe,Second Class,Water Sports,3.817073170731707,2.331364506831943,82
+Western Europe,Second Class,Women's Apparel,22.93577981651376,52.57116433047857,109
+Western Europe,Second Class,Women's Golf Clubs,2.5,0.7071067811865476,2
+Western Europe,Standard Class,Accessories,24.952380952380953,35.915840781577415,21
+Western Europe,Standard Class,As Seen on  TV!,3.6,0.8944271909999159,5
+Western Europe,Standard Class,Baby,14.4,14.982953276603679,10
+Western Europe,Standard Class,Baseball & Softball,5.857142857142857,5.669467095138408,7
+Western Europe,Standard Class,Basketball,3.0,2.0,4
+Western Europe,Standard Class,Books,6.947368421052632,11.48658001616827,19
+Western Europe,Standard Class,Boxing & MMA,4.25,3.6212755161180934,12
+Western Europe,Standard Class,CDs,18.80952380952381,19.500305247916113,21
+Western Europe,Standard Class,Cameras,22.345454545454544,33.87461530836272,55
+Western Europe,Standard Class,Camping & Hiking,26.587677725118482,62.43927060836927,211
+Western Europe,Standard Class,Cardio Equipment,33.98076923076923,54.84047674173241,208
+Western Europe,Standard Class,Children's Clothing,3.0,1.4142135623730951,2
+Western Europe,Standard Class,Cleats,25.418803418803417,50.177383519368746,351
+Western Europe,Standard Class,Consumer Electronics,14.454545454545455,32.623193088242104,11
+Western Europe,Standard Class,Crafts,14.8,28.44731973314885,25
+Western Europe,Standard Class,DVDs,9.368421052631579,7.205017744721688,19
+Western Europe,Standard Class,Electronics,16.97142857142857,52.00875815062063,35
+Western Europe,Standard Class,Fishing,7.7848605577689245,18.114345968885484,251
+Western Europe,Standard Class,Fitness Accessories,4.5,2.1213203435596424,2
+Western Europe,Standard Class,Girls' Apparel,18.0,46.055522047970655,10
+Western Europe,Standard Class,Golf Apparel,4.0,2.8284271247461903,8
+Western Europe,Standard Class,Golf Bags & Carts,2.0,0.0,2
+Western Europe,Standard Class,Golf Balls,35.61538461538461,74.07039271478907,13
+Western Europe,Standard Class,Golf Gloves,16.36842105263158,39.31667800807494,19
+Western Europe,Standard Class,Golf Shoes,15.0,35.26683994916471,9
+Western Europe,Standard Class,Hockey,5.5,6.363961030678928,10
+Western Europe,Standard Class,Hunting & Shooting,3.0,1.6733200530681511,6
+Western Europe,Standard Class,Indoor/Outdoor Games,18.268551236749115,36.862192576007516,283
+Western Europe,Standard Class,Kids' Golf Clubs,5.888888888888889,12.072764140284034,18
+Western Europe,Standard Class,Men's Footwear,12.767584097859327,33.9751053028807,327
+Western Europe,Standard Class,Men's Golf Clubs,3.8333333333333335,1.58113883008419,18
+Western Europe,Standard Class,Shop By Sport,13.661111111111111,44.89493182739526,180
+Western Europe,Standard Class,Soccer,3.3333333333333335,1.1547005383792517,3
+Western Europe,Standard Class,Strength Training,2.6,1.1401754250991378,5
+Western Europe,Standard Class,Tennis & Racquet,6.0,2.0,3
+Western Europe,Standard Class,Trade-In,3.090909090909091,0.9438798074485389,11
+Western Europe,Standard Class,Water Sports,5.867219917012448,15.012737791253631,241
+Western Europe,Standard Class,Women's Apparel,12.99673202614379,33.12712705114015,306
+Western Europe,Standard Class,Women's Golf Clubs,3.4444444444444446,1.509230856356236,9
